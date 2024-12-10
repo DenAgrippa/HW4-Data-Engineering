@@ -1,0 +1,7732 @@
+[
+    {
+        "name": "SteelSeries Arctis 7",
+        "method": "price_abs",
+        "param": 9991
+    },
+    {
+        "name": "pleasant nails",
+        "method": "quantity_sub",
+        "param": -114
+    },
+    {
+        "name": "superb axe",
+        "method": "price_percent",
+        "param": 0.09
+    },
+    {
+        "name": "exquisite wheelbarrow",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "tasteful apricot",
+        "method": "price_abs",
+        "param": 5
+    },
+    {
+        "name": "refined insulation",
+        "method": "price_abs",
+        "param": -8
+    },
+    {
+        "name": "gorgeous papaya",
+        "method": "quantity_add",
+        "param": 87
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "gorgeous flooring",
+        "method": "price_percent",
+        "param": -0.11
+    },
+    {
+        "name": "trendy axe",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "tasteful nail file",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "superb moustache wax",
+        "method": "quantity_add",
+        "param": 97
+    },
+    {
+        "name": "attractive plumbing",
+        "method": "quantity_add",
+        "param": 84
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "quantity_sub",
+        "param": -5
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "marvelous plumbing",
+        "method": "quantity_add",
+        "param": 4
+    },
+    {
+        "name": "superb toothpaste",
+        "method": "quantity_add",
+        "param": 67
+    },
+    {
+        "name": "attractive insulation",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "attractive wheelbarrow",
+        "method": "price_percent",
+        "param": -0.08
+    },
+    {
+        "name": "elegant nail polish",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "quantity_sub",
+        "param": -5
+    },
+    {
+        "name": "delightful orange",
+        "method": "quantity_add",
+        "param": 4
+    },
+    {
+        "name": "superb chisel",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "refined lotion",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "pretty eye cream",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "quantity_sub",
+        "param": -1
+    },
+    {
+        "name": "magnificent windows",
+        "method": "price_percent",
+        "param": 0.04
+    },
+    {
+        "name": "attractive trim",
+        "method": "quantity_sub",
+        "param": -45
+    },
+    {
+        "name": "glamorous flooring",
+        "method": "quantity_add",
+        "param": 55
+    },
+    {
+        "name": "Ricoh Aficio MP",
+        "method": "quantity_sub",
+        "param": -3
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "amazing glue",
+        "method": "price_percent",
+        "param": 0.14
+    },
+    {
+        "name": "sublime ladder",
+        "method": "price_percent",
+        "param": 0.03
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "glamorous cherry",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "beautiful shampoo",
+        "method": "price_percent",
+        "param": -0.02
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "quantity_sub",
+        "param": -1
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "exquisite wheelbarrow",
+        "method": "price_abs",
+        "param": 10
+    },
+    {
+        "name": "delightful apricot",
+        "method": "price_percent",
+        "param": 0.02
+    },
+    {
+        "name": "pleasant body wash",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "quantity_add",
+        "param": 3
+    },
+    {
+        "name": "stylish saw",
+        "method": "price_abs",
+        "param": 76.49400000000001
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "glamorous cherry",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "price_abs",
+        "param": 5436
+    },
+    {
+        "name": "beautiful night cream",
+        "method": "price_percent",
+        "param": -0.08
+    },
+    {
+        "name": "refined electrical",
+        "method": "price_percent",
+        "param": 0.08
+    },
+    {
+        "name": "luxurious peach",
+        "method": "price_abs",
+        "param": -2
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "quantity_sub",
+        "param": -4
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "quantity_sub",
+        "param": -1
+    },
+    {
+        "name": "marvelous boysenberry",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "tasteful pedicure set",
+        "method": "price_abs",
+        "param": 8
+    },
+    {
+        "name": "tasteful moisturizer",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "stylish tape measure",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "quantity_add",
+        "param": 6
+    },
+    {
+        "name": "gorgeous shovel",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "refined saw",
+        "method": "price_percent",
+        "param": -0.03
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "quantity_add",
+        "param": 2
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "refined insulation",
+        "method": "price_percent",
+        "param": -0.13
+    },
+    {
+        "name": "trendy saw",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "stylish blackberry",
+        "method": "price_percent",
+        "param": 0.19
+    },
+    {
+        "name": "exquisite ladder",
+        "method": "price_percent",
+        "param": -0.13
+    },
+    {
+        "name": "trendy saw",
+        "method": "quantity_add",
+        "param": 128
+    },
+    {
+        "name": "pleasant night cream",
+        "method": "price_abs",
+        "param": 2
+    },
+    {
+        "name": "magnificent insulation",
+        "method": "quantity_add",
+        "param": 78
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "quantity_add",
+        "param": 4
+    },
+    {
+        "name": "gorgeous papaya",
+        "method": "price_percent",
+        "param": -0.13
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "amazing ladder",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "stylish blackberry",
+        "method": "quantity_add",
+        "param": 100
+    },
+    {
+        "name": "amazing siding",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "price_percent",
+        "param": -0.15
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "price_abs",
+        "param": 3414
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "attractive ladder",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "quantity_add",
+        "param": 3
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "price_abs",
+        "param": 16692
+    },
+    {
+        "name": "delightful plumbing",
+        "method": "quantity_add",
+        "param": 64
+    },
+    {
+        "name": "superb moustache wax",
+        "method": "quantity_add",
+        "param": 91
+    },
+    {
+        "name": "tasteful conditioner",
+        "method": "price_percent",
+        "param": 0.19
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "luxurious sunscreen",
+        "method": "quantity_add",
+        "param": 80
+    },
+    {
+        "name": "attractive scaffolding",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "superb strawberry",
+        "method": "price_percent",
+        "param": 0.0
+    },
+    {
+        "name": "superb drywall",
+        "method": "quantity_add",
+        "param": 125
+    },
+    {
+        "name": "delightful plumbing",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "delightful scaffolding",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "tasteful pedicure set",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "superb drywall",
+        "method": "price_percent",
+        "param": -0.04
+    },
+    {
+        "name": "amazing glue",
+        "method": "price_abs",
+        "param": -8
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "quantity_add",
+        "param": 2
+    },
+    {
+        "name": "exquisite ladder",
+        "method": "price_abs",
+        "param": 6
+    },
+    {
+        "name": "pleasant strawberry",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "trendy hammer",
+        "method": "price_abs",
+        "param": -12
+    },
+    {
+        "name": "attractive plumbing",
+        "method": "price_percent",
+        "param": 0.05
+    },
+    {
+        "name": "pretty toothpaste",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "price_percent",
+        "param": -0.03
+    },
+    {
+        "name": "stylish shovel",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "sublime tile",
+        "method": "quantity_add",
+        "param": 6
+    },
+    {
+        "name": "glamorous cherry",
+        "method": "quantity_sub",
+        "param": -86
+    },
+    {
+        "name": "stylish grapes",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "sublime ladder",
+        "method": "quantity_sub",
+        "param": -69
+    },
+    {
+        "name": "trendy nail polish",
+        "method": "price_percent",
+        "param": -0.03
+    },
+    {
+        "name": "elegant apple",
+        "method": "quantity_add",
+        "param": 121
+    },
+    {
+        "name": "attractive insulation",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "superb axe",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Razer Variau",
+        "method": "price_abs",
+        "param": -3266
+    },
+    {
+        "name": "trendy nail polish",
+        "method": "quantity_add",
+        "param": 17
+    },
+    {
+        "name": "stylish cranberry",
+        "method": "price_percent",
+        "param": 0.08
+    },
+    {
+        "name": "beautiful hair mask",
+        "method": "price_percent",
+        "param": 0.13
+    },
+    {
+        "name": "pleasant nails",
+        "method": "quantity_add",
+        "param": 175
+    },
+    {
+        "name": "attractive wheelbarrow",
+        "method": "quantity_add",
+        "param": 69
+    },
+    {
+        "name": "EVGA 500B 80+ BRONZE",
+        "method": "price_abs",
+        "param": -10451
+    },
+    {
+        "name": "amazing ladder",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "beautiful shampoo",
+        "method": "price_percent",
+        "param": -0.03
+    },
+    {
+        "name": "luxurious sunscreen",
+        "method": "price_percent",
+        "param": 0.04
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "quantity_add",
+        "param": 6
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "price_abs",
+        "param": 4591
+    },
+    {
+        "name": "pleasant doors",
+        "method": "quantity_sub",
+        "param": -42
+    },
+    {
+        "name": "glamorous nail file",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "EVGA 500B 80+ BRONZE",
+        "method": "price_abs",
+        "param": 6645
+    },
+    {
+        "name": "nice screws",
+        "method": "price_percent",
+        "param": 0.18
+    },
+    {
+        "name": "gorgeous papaya",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "trendy hammer",
+        "method": "quantity_add",
+        "param": 134
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "tasteful pedicure set",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_abs",
+        "param": -1172
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "price_percent",
+        "param": 0.13
+    },
+    {
+        "name": "exquisite blackberry",
+        "method": "price_abs",
+        "param": -13
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "price_percent",
+        "param": 0.17
+    },
+    {
+        "name": "trendy axe",
+        "method": "quantity_sub",
+        "param": -25
+    },
+    {
+        "name": "pretty plum",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "superb apricot",
+        "method": "quantity_sub",
+        "param": -51
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "price_abs",
+        "param": -8769
+    },
+    {
+        "name": "attractive insulation",
+        "method": "quantity_sub",
+        "param": -43
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "quantity_sub",
+        "param": -4
+    },
+    {
+        "name": "gorgeous papaya",
+        "method": "quantity_add",
+        "param": 14
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "quantity_sub",
+        "param": -3
+    },
+    {
+        "name": "pleasant strawberry",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "trendy level",
+        "method": "price_abs",
+        "param": -3
+    },
+    {
+        "name": "delightful plumbing",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "quantity_add",
+        "param": 4
+    },
+    {
+        "name": "gorgeous trim",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "magnificent insulation",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "refined lotion",
+        "method": "quantity_add",
+        "param": 108
+    },
+    {
+        "name": "nice face wash",
+        "method": "quantity_sub",
+        "param": -54
+    },
+    {
+        "name": "elegant tile",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "beautiful hair mask",
+        "method": "quantity_add",
+        "param": 177
+    },
+    {
+        "name": "tasteful nail file",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "attractive wheelbarrow",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "delightful apricot",
+        "method": "price_abs",
+        "param": 1
+    },
+    {
+        "name": "sublime nail polish",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "superb sunscreen",
+        "method": "quantity_add",
+        "param": 61
+    },
+    {
+        "name": "elegant plumbing",
+        "method": "price_abs",
+        "param": 0
+    },
+    {
+        "name": "pleasant plum",
+        "method": "price_percent",
+        "param": 0.14
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "price_abs",
+        "param": -7641
+    },
+    {
+        "name": "elegant raspberry",
+        "method": "quantity_sub",
+        "param": -155
+    },
+    {
+        "name": "attractive trim",
+        "method": "quantity_add",
+        "param": 111
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "price_abs",
+        "param": 6
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "quantity_sub",
+        "param": -188
+    },
+    {
+        "name": "amazing banana",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "refined saw",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "sublime guava",
+        "method": "price_percent",
+        "param": 0.03
+    },
+    {
+        "name": "AMD Ryzen 5",
+        "method": "price_abs",
+        "param": 68901.8
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "refined insulation",
+        "method": "price_percent",
+        "param": -0.14
+    },
+    {
+        "name": "pleasant nails",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "gorgeous shovel",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "quantity_add",
+        "param": 1
+    },
+    {
+        "name": "glamorous cherry",
+        "method": "price_abs",
+        "param": 5
+    },
+    {
+        "name": "pretty body wash",
+        "method": "price_percent",
+        "param": -0.13
+    },
+    {
+        "name": "delightful kiwifruit",
+        "method": "quantity_sub",
+        "param": -27
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "delightful banana",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "quantity_add",
+        "param": 10
+    },
+    {
+        "name": "glamorous toner",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "quantity_sub",
+        "param": -4
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "quantity_add",
+        "param": 3
+    },
+    {
+        "name": "exquisite ladder",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "trendy axe",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "method": "quantity_sub",
+        "param": -3
+    },
+    {
+        "name": "tasteful conditioner",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "exquisite blackberry",
+        "method": "price_percent",
+        "param": -0.12
+    },
+    {
+        "name": "pleasant strawberry",
+        "method": "quantity_sub",
+        "param": -71
+    },
+    {
+        "name": "gorgeous shovel",
+        "method": "quantity_sub",
+        "param": -119
+    },
+    {
+        "name": "magnificent wheelbarrow",
+        "method": "quantity_add",
+        "param": 13
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "quantity_add",
+        "param": 2
+    },
+    {
+        "name": "beautiful hair mask",
+        "method": "price_abs",
+        "param": 0
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "method": "price_percent",
+        "param": 0.15
+    },
+    {
+        "name": "stylish shovel",
+        "method": "quantity_add",
+        "param": 137
+    },
+    {
+        "name": "attractive wheelbarrow",
+        "method": "quantity_sub",
+        "param": -11
+    },
+    {
+        "name": "refined electrical",
+        "method": "price_abs",
+        "param": -4
+    },
+    {
+        "name": "exquisite ladder",
+        "method": "price_percent",
+        "param": -0.08
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "quantity_add",
+        "param": 8
+    },
+    {
+        "name": "stylish orange",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "refined insulation",
+        "method": "price_abs",
+        "param": 8
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "delightful raspberry",
+        "method": "price_abs",
+        "param": 0
+    },
+    {
+        "name": "magnificent roofing",
+        "method": "quantity_sub",
+        "param": -111
+    },
+    {
+        "name": "elegant kiwifruit",
+        "method": "price_abs",
+        "param": 14
+    },
+    {
+        "name": "gorgeous shovel",
+        "method": "price_abs",
+        "param": 2
+    },
+    {
+        "name": "superb apricot",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "glamorous flooring",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "price_abs",
+        "param": 3158
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "refined electrical",
+        "method": "quantity_sub",
+        "param": -76
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "quantity_sub",
+        "param": -1
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "quantity_add",
+        "param": 2
+    },
+    {
+        "name": "refined glue",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "EVGA 500B 80+ BRONZE",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "superb toothpaste",
+        "method": "price_abs",
+        "param": -1
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "price_abs",
+        "param": 7399
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "superb sunscreen",
+        "method": "quantity_sub",
+        "param": -54
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "marvelous boysenberry",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "magnificent nail file",
+        "method": "price_percent",
+        "param": -0.15
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Razer Variau",
+        "method": "quantity_sub",
+        "param": -3
+    },
+    {
+        "name": "beautiful perfume",
+        "method": "quantity_add",
+        "param": 133
+    },
+    {
+        "name": "Ricoh Aficio MP",
+        "method": "price_percent",
+        "param": 0.19
+    },
+    {
+        "name": "trendy nail polish",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "amazing ladder",
+        "method": "price_percent",
+        "param": 0.11
+    },
+    {
+        "name": "stylish grapes",
+        "method": "quantity_add",
+        "param": 137
+    },
+    {
+        "name": "tasteful conditioner",
+        "method": "quantity_sub",
+        "param": -90
+    },
+    {
+        "name": "luxurious sunscreen",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "superb toothpaste",
+        "method": "quantity_add",
+        "param": 48
+    },
+    {
+        "name": "beautiful hair mask",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "glamorous perfume",
+        "method": "price_abs",
+        "param": 14
+    },
+    {
+        "name": "amazing banana",
+        "method": "price_abs",
+        "param": 6
+    },
+    {
+        "name": "glamorous flooring",
+        "method": "price_abs",
+        "param": -16
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "price_abs",
+        "param": 4775
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "quantity_sub",
+        "param": -6
+    },
+    {
+        "name": "superb strawberry",
+        "method": "price_percent",
+        "param": -0.03
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "beautiful hair mask",
+        "method": "price_abs",
+        "param": 88.352
+    },
+    {
+        "name": "stylish shampoo",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "amazing ladder",
+        "method": "price_abs",
+        "param": 51.92000000000001
+    },
+    {
+        "name": "sublime drywall",
+        "method": "quantity_add",
+        "param": 95
+    },
+    {
+        "name": "tasteful apricot",
+        "method": "price_abs",
+        "param": -8
+    },
+    {
+        "name": "beautiful hair mask",
+        "method": "price_abs",
+        "param": -15
+    },
+    {
+        "name": "amazing bubble bath",
+        "method": "quantity_add",
+        "param": 20
+    },
+    {
+        "name": "sublime blueberry",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "superb sunscreen",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "beautiful hair mask",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "tasteful pedicure set",
+        "method": "quantity_sub",
+        "param": -37
+    },
+    {
+        "name": "stylish shampoo",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_abs",
+        "param": 47727.9
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "quantity_add",
+        "param": 2
+    },
+    {
+        "name": "delightful apricot",
+        "method": "price_percent",
+        "param": -0.1
+    },
+    {
+        "name": "exquisite ladder",
+        "method": "price_abs",
+        "param": -8
+    },
+    {
+        "name": "superb chisel",
+        "method": "price_abs",
+        "param": 47.575
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "price_abs",
+        "param": -313
+    },
+    {
+        "name": "stylish grapes",
+        "method": "quantity_add",
+        "param": 31
+    },
+    {
+        "name": "elegant lotion",
+        "method": "price_percent",
+        "param": -0.09
+    },
+    {
+        "name": "trendy hammer",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "tasteful apricot",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "magnificent wheelbarrow",
+        "method": "price_percent",
+        "param": 0.1
+    },
+    {
+        "name": "magnificent wheelbarrow",
+        "method": "quantity_add",
+        "param": 1
+    },
+    {
+        "name": "tasteful plum",
+        "method": "quantity_add",
+        "param": 58
+    },
+    {
+        "name": "AMD Ryzen 5",
+        "method": "price_percent",
+        "param": -0.09
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "luxurious peach",
+        "method": "price_abs",
+        "param": 7
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "price_percent",
+        "param": -0.18
+    },
+    {
+        "name": "superb drywall",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "delightful scaffolding",
+        "method": "price_percent",
+        "param": -0.18
+    },
+    {
+        "name": "superb sunscreen",
+        "method": "quantity_add",
+        "param": 51
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "price_abs",
+        "param": 183
+    },
+    {
+        "name": "delightful scaffolding",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "price_percent",
+        "param": 0.17
+    },
+    {
+        "name": "glamorous pedicure set",
+        "method": "quantity_add",
+        "param": 87
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "price_percent",
+        "param": -0.12
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "price_percent",
+        "param": -0.15
+    },
+    {
+        "name": "gorgeous cherry",
+        "method": "price_abs",
+        "param": 97.69100000000002
+    },
+    {
+        "name": "delightful raspberry",
+        "method": "price_percent",
+        "param": 0.16
+    },
+    {
+        "name": "stylish shampoo",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "beautiful conditioner",
+        "method": "quantity_sub",
+        "param": -34
+    },
+    {
+        "name": "amazing glue",
+        "method": "quantity_add",
+        "param": 49
+    },
+    {
+        "name": "refined melon",
+        "method": "price_percent",
+        "param": 0.18
+    },
+    {
+        "name": "glamorous pedicure set",
+        "method": "price_percent",
+        "param": 0.06
+    },
+    {
+        "name": "amazing glue",
+        "method": "price_percent",
+        "param": 0.19
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "quantity_sub",
+        "param": -9
+    },
+    {
+        "name": "attractive insulation",
+        "method": "quantity_sub",
+        "param": -78
+    },
+    {
+        "name": "delightful orange",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "glamorous apple",
+        "method": "quantity_add",
+        "param": 71
+    },
+    {
+        "name": "sublime ladder",
+        "method": "price_percent",
+        "param": 0.17
+    },
+    {
+        "name": "refined melon",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "pretty plum",
+        "method": "quantity_add",
+        "param": 165
+    },
+    {
+        "name": "trendy axe",
+        "method": "price_abs",
+        "param": -12
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "method": "price_abs",
+        "param": 5944
+    },
+    {
+        "name": "trendy saw",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "tasteful apricot",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "quantity_sub",
+        "param": -1
+    },
+    {
+        "name": "EVGA 500B 80+ BRONZE",
+        "method": "quantity_sub",
+        "param": -1
+    },
+    {
+        "name": "attractive insulation",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "elegant tile",
+        "method": "price_percent",
+        "param": 0.13
+    },
+    {
+        "name": "sublime serum",
+        "method": "quantity_add",
+        "param": 127
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "price_abs",
+        "param": 29543.800000000003
+    },
+    {
+        "name": "nice screws",
+        "method": "quantity_add",
+        "param": 123
+    },
+    {
+        "name": "amazing ladder",
+        "method": "price_percent",
+        "param": 0.08
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "refined lip balm",
+        "method": "price_abs",
+        "param": -7
+    },
+    {
+        "name": "glamorous nail file",
+        "method": "quantity_add",
+        "param": 24
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "price_abs",
+        "param": 2547
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "delightful kiwifruit",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "trendy level",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "AMD Ryzen 5",
+        "method": "quantity_add",
+        "param": 5
+    },
+    {
+        "name": "stylish cranberry",
+        "method": "price_abs",
+        "param": 11
+    },
+    {
+        "name": "refined melon",
+        "method": "quantity_sub",
+        "param": -78
+    },
+    {
+        "name": "elegant raspberry",
+        "method": "quantity_sub",
+        "param": -27
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "quantity_sub",
+        "param": -3
+    },
+    {
+        "name": "luxurious sunscreen",
+        "method": "quantity_add",
+        "param": 60
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "price_percent",
+        "param": 0.16
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "price_abs",
+        "param": 10826
+    },
+    {
+        "name": "pretty moustache wax",
+        "method": "quantity_add",
+        "param": 104
+    },
+    {
+        "name": "elegant apple",
+        "method": "quantity_sub",
+        "param": -38
+    },
+    {
+        "name": "superb strawberry",
+        "method": "quantity_add",
+        "param": 113
+    },
+    {
+        "name": "elegant raspberry",
+        "method": "quantity_sub",
+        "param": -57
+    },
+    {
+        "name": "elegant lotion",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "attractive glue",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "sublime drywall",
+        "method": "quantity_sub",
+        "param": -30
+    },
+    {
+        "name": "gorgeous papaya",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "marvelous plumbing",
+        "method": "price_abs",
+        "param": -11
+    },
+    {
+        "name": "pretty body wash",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "amazing siding",
+        "method": "price_percent",
+        "param": -0.02
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "tasteful apricot",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "quantity_sub",
+        "param": -3
+    },
+    {
+        "name": "nice apple",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "stylish tape measure",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "refined electrical",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "price_percent",
+        "param": 0.13
+    },
+    {
+        "name": "elegant plumbing",
+        "method": "price_abs",
+        "param": 8
+    },
+    {
+        "name": "superb drywall",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "tasteful nail file",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "stylish orange",
+        "method": "quantity_sub",
+        "param": -131
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "quantity_add",
+        "param": 4
+    },
+    {
+        "name": "elegant kiwifruit",
+        "method": "quantity_add",
+        "param": 120
+    },
+    {
+        "name": "attractive insulation",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "tasteful pedicure set",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "AMD Ryzen 5",
+        "method": "price_percent",
+        "param": 0.05
+    },
+    {
+        "name": "amazing shampoo",
+        "method": "price_abs",
+        "param": -15
+    },
+    {
+        "name": "AMD Ryzen 5",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "refined saw",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "EVGA 500B 80+ BRONZE",
+        "method": "price_abs",
+        "param": -10279
+    },
+    {
+        "name": "gorgeous exfoliator",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "magnificent wheelbarrow",
+        "method": "price_percent",
+        "param": -0.02
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "price_percent",
+        "param": -0.05
+    },
+    {
+        "name": "superb axe",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "elegant raspberry",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "attractive plumbing",
+        "method": "price_abs",
+        "param": 1
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "quantity_sub",
+        "param": -9
+    },
+    {
+        "name": "pretty plum",
+        "method": "price_abs",
+        "param": 2
+    },
+    {
+        "name": "marvelous plumbing",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "glamorous toner",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "amazing siding",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "price_abs",
+        "param": 3813
+    },
+    {
+        "name": "refined electrical",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "attractive insulation",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "price_abs",
+        "param": 779
+    },
+    {
+        "name": "stylish lip balm",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "elegant plumbing",
+        "method": "quantity_add",
+        "param": 34
+    },
+    {
+        "name": "glamorous apple",
+        "method": "price_abs",
+        "param": 0
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "method": "price_percent",
+        "param": 0.02
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "quantity_sub",
+        "param": -1
+    },
+    {
+        "name": "delightful raspberry",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "gorgeous trim",
+        "method": "quantity_add",
+        "param": 58
+    },
+    {
+        "name": "sublime face wash",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "elegant kiwifruit",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "sublime serum",
+        "method": "price_percent",
+        "param": -0.06
+    },
+    {
+        "name": "refined electrical",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "trendy saw",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "elegant nail polish",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "refined saw",
+        "method": "price_percent",
+        "param": -0.06
+    },
+    {
+        "name": "trendy hammer",
+        "method": "price_abs",
+        "param": -6
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "attractive baby shampoo",
+        "method": "price_abs",
+        "param": 2
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "quantity_sub",
+        "param": -9
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "quantity_add",
+        "param": 1
+    },
+    {
+        "name": "marvelous hair mask",
+        "method": "quantity_add",
+        "param": 151
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "price_abs",
+        "param": 9
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "method": "quantity_sub",
+        "param": -3
+    },
+    {
+        "name": "beautiful shampoo",
+        "method": "price_percent",
+        "param": 0.15
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_percent",
+        "param": -0.08
+    },
+    {
+        "name": "EVGA 500B 80+ BRONZE",
+        "method": "price_percent",
+        "param": 0.0
+    },
+    {
+        "name": "exquisite blackberry",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "sublime drywall",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "superb drywall",
+        "method": "price_percent",
+        "param": -0.17
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "quantity_add",
+        "param": 1
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "price_percent",
+        "param": -0.06
+    },
+    {
+        "name": "delightful raspberry",
+        "method": "price_abs",
+        "param": 8
+    },
+    {
+        "name": "tasteful apricot",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "exquisite moustache wax",
+        "method": "quantity_add",
+        "param": 65
+    },
+    {
+        "name": "stylish windows",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "superb chisel",
+        "method": "price_abs",
+        "param": 1
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "attractive scaffolding",
+        "method": "quantity_sub",
+        "param": -86
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "delightful apricot",
+        "method": "quantity_add",
+        "param": 76
+    },
+    {
+        "name": "attractive baby shampoo",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "nice drywall",
+        "method": "quantity_sub",
+        "param": -76
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "quantity_add",
+        "param": 1
+    },
+    {
+        "name": "superb chisel",
+        "method": "price_abs",
+        "param": 5
+    },
+    {
+        "name": "pretty plum",
+        "method": "price_percent",
+        "param": 0.02
+    },
+    {
+        "name": "stylish saw",
+        "method": "quantity_add",
+        "param": 88
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_percent",
+        "param": -0.02
+    },
+    {
+        "name": "nice face wash",
+        "method": "price_percent",
+        "param": 0.1
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "price_percent",
+        "param": 0.17
+    },
+    {
+        "name": "marvelous hair mask",
+        "method": "price_abs",
+        "param": -8
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "quantity_add",
+        "param": 2
+    },
+    {
+        "name": "refined glue",
+        "method": "price_percent",
+        "param": -0.03
+    },
+    {
+        "name": "Razer Variau",
+        "method": "quantity_sub",
+        "param": -4
+    },
+    {
+        "name": "exquisite blackberry",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "stylish windows",
+        "method": "quantity_sub",
+        "param": -153
+    },
+    {
+        "name": "sublime face wash",
+        "method": "price_percent",
+        "param": -0.05
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "refined bubble bath",
+        "method": "price_percent",
+        "param": 0.12
+    },
+    {
+        "name": "pretty ladder",
+        "method": "quantity_sub",
+        "param": -35
+    },
+    {
+        "name": "attractive moustache wax",
+        "method": "price_percent",
+        "param": -0.06
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "price_percent",
+        "param": 0.06
+    },
+    {
+        "name": "elegant lotion",
+        "method": "price_abs",
+        "param": -3
+    },
+    {
+        "name": "nice apple",
+        "method": "price_percent",
+        "param": 0.2
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "pleasant strawberry",
+        "method": "quantity_add",
+        "param": 12
+    },
+    {
+        "name": "exquisite wheelbarrow",
+        "method": "quantity_add",
+        "param": 68
+    },
+    {
+        "name": "elegant raspberry",
+        "method": "price_abs",
+        "param": 3
+    },
+    {
+        "name": "delightful banana",
+        "method": "price_abs",
+        "param": -5
+    },
+    {
+        "name": "delightful drywall",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "pleasant strawberry",
+        "method": "price_percent",
+        "param": 0.12
+    },
+    {
+        "name": "magnificent insulation",
+        "method": "quantity_sub",
+        "param": -28
+    },
+    {
+        "name": "refined glue",
+        "method": "quantity_add",
+        "param": 180
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "price_percent",
+        "param": 0.16
+    },
+    {
+        "name": "exquisite wheelbarrow",
+        "method": "quantity_add",
+        "param": 6
+    },
+    {
+        "name": "nice face wash",
+        "method": "quantity_sub",
+        "param": -60
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "quantity_add",
+        "param": 2
+    },
+    {
+        "name": "attractive ladder",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "elegant plumbing",
+        "method": "price_percent",
+        "param": 0.15
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "amazing shampoo",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "stylish kiwifruit",
+        "method": "price_abs",
+        "param": 2
+    },
+    {
+        "name": "elegant kiwifruit",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "quantity_add",
+        "param": 1
+    },
+    {
+        "name": "attractive ladder",
+        "method": "quantity_sub",
+        "param": -88
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "quantity_sub",
+        "param": -11
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "quantity_add",
+        "param": 4
+    },
+    {
+        "name": "Ricoh Aficio MP",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "quantity_sub",
+        "param": -7
+    },
+    {
+        "name": "amazing perfume",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_abs",
+        "param": 52
+    },
+    {
+        "name": "amazing banana",
+        "method": "quantity_sub",
+        "param": -17
+    },
+    {
+        "name": "pleasant night cream",
+        "method": "quantity_add",
+        "param": 84
+    },
+    {
+        "name": "tasteful conditioner",
+        "method": "price_percent",
+        "param": -0.19
+    },
+    {
+        "name": "stylish grapes",
+        "method": "quantity_add",
+        "param": 118
+    },
+    {
+        "name": "pleasant strawberry",
+        "method": "price_percent",
+        "param": 0.18
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "price_percent",
+        "param": 0.06
+    },
+    {
+        "name": "stylish saw",
+        "method": "quantity_add",
+        "param": 51
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "price_percent",
+        "param": -0.15
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "price_abs",
+        "param": 2000
+    },
+    {
+        "name": "exquisite chisel",
+        "method": "quantity_sub",
+        "param": -74
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "price_percent",
+        "param": 0.02
+    },
+    {
+        "name": "exquisite wheelbarrow",
+        "method": "price_abs",
+        "param": -3
+    },
+    {
+        "name": "trendy saw",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "price_percent",
+        "param": -0.19
+    },
+    {
+        "name": "stylish tape measure",
+        "method": "price_abs",
+        "param": -1
+    },
+    {
+        "name": "pretty plum",
+        "method": "price_percent",
+        "param": 0.12
+    },
+    {
+        "name": "stylish blackberry",
+        "method": "quantity_add",
+        "param": 117
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "quantity_add",
+        "param": 9
+    },
+    {
+        "name": "stylish shovel",
+        "method": "quantity_add",
+        "param": 9
+    },
+    {
+        "name": "elegant lotion",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "gorgeous shovel",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "magnificent insulation",
+        "method": "quantity_add",
+        "param": 121
+    },
+    {
+        "name": "stylish orange",
+        "method": "quantity_add",
+        "param": 7
+    },
+    {
+        "name": "luxurious bubble bath",
+        "method": "quantity_add",
+        "param": 73
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "price_percent",
+        "param": 0.13
+    },
+    {
+        "name": "superb axe",
+        "method": "price_abs",
+        "param": -3
+    },
+    {
+        "name": "attractive scaffolding",
+        "method": "price_abs",
+        "param": -5
+    },
+    {
+        "name": "delightful orange",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "exquisite chisel",
+        "method": "quantity_sub",
+        "param": -63
+    },
+    {
+        "name": "attractive scaffolding",
+        "method": "price_abs",
+        "param": 5
+    },
+    {
+        "name": "sublime face wash",
+        "method": "price_percent",
+        "param": -0.03
+    },
+    {
+        "name": "magnificent wheelbarrow",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "delightful scaffolding",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "refined bubble bath",
+        "method": "price_abs",
+        "param": 6
+    },
+    {
+        "name": "nice face wash",
+        "method": "price_percent",
+        "param": -0.03
+    },
+    {
+        "name": "magnificent wheelbarrow",
+        "method": "quantity_add",
+        "param": 79
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "quantity_sub",
+        "param": -1
+    },
+    {
+        "name": "superb chisel",
+        "method": "price_abs",
+        "param": 47.575
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "elegant insulation",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "exquisite ladder",
+        "method": "quantity_add",
+        "param": 7
+    },
+    {
+        "name": "attractive wheelbarrow",
+        "method": "price_percent",
+        "param": -0.05
+    },
+    {
+        "name": "magnificent windows",
+        "method": "price_percent",
+        "param": -0.19
+    },
+    {
+        "name": "refined saw",
+        "method": "price_abs",
+        "param": -1
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "quantity_sub",
+        "param": -2
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "sublime drywall",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "price_percent",
+        "param": -0.2
+    },
+    {
+        "name": "stylish blackberry",
+        "method": "quantity_sub",
+        "param": -111
+    },
+    {
+        "name": "nice face wash",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_percent",
+        "param": -0.18
+    },
+    {
+        "name": "luxurious cherry",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "amazing perfume",
+        "method": "price_abs",
+        "param": 12
+    },
+    {
+        "name": "magnificent insulation",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "method": "quantity_sub",
+        "param": -2
+    },
+    {
+        "name": "elegant insulation",
+        "method": "quantity_sub",
+        "param": -68
+    },
+    {
+        "name": "gorgeous cherry",
+        "method": "price_abs",
+        "param": -5
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "price_abs",
+        "param": -524
+    },
+    {
+        "name": "sublime ladder",
+        "method": "quantity_sub",
+        "param": -117
+    },
+    {
+        "name": "sublime serum",
+        "method": "quantity_add",
+        "param": 38
+    },
+    {
+        "name": "amazing banana",
+        "method": "quantity_sub",
+        "param": -47
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "price_percent",
+        "param": 0.18
+    },
+    {
+        "name": "magnificent windows",
+        "method": "quantity_sub",
+        "param": -35
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "price_abs",
+        "param": -9006
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "quantity_add",
+        "param": 3
+    },
+    {
+        "name": "attractive ladder",
+        "method": "price_abs",
+        "param": -7
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "quantity_add",
+        "param": 10
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "price_abs",
+        "param": 7333
+    },
+    {
+        "name": "magnificent insulation",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "elegant lotion",
+        "method": "price_percent",
+        "param": -0.11
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_percent",
+        "param": -0.12
+    },
+    {
+        "name": "EVGA 500B 80+ BRONZE",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "amazing bubble bath",
+        "method": "quantity_sub",
+        "param": -55
+    },
+    {
+        "name": "amazing ladder",
+        "method": "price_abs",
+        "param": 51.92000000000001
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_abs",
+        "param": -1916
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Razer Variau",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "marvelous plumbing",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "pleasant strawberry",
+        "method": "price_abs",
+        "param": -2
+    },
+    {
+        "name": "stylish blackberry",
+        "method": "price_percent",
+        "param": -0.01
+    },
+    {
+        "name": "pretty moustache wax",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "magnificent wheelbarrow",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "beautiful shampoo",
+        "method": "price_percent",
+        "param": -0.12
+    },
+    {
+        "name": "trendy axe",
+        "method": "price_abs",
+        "param": 11
+    },
+    {
+        "name": "attractive plumbing",
+        "method": "quantity_sub",
+        "param": -135
+    },
+    {
+        "name": "delightful drywall",
+        "method": "quantity_sub",
+        "param": -12
+    },
+    {
+        "name": "stylish blackberry",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "exquisite blackberry",
+        "method": "quantity_sub",
+        "param": -5
+    },
+    {
+        "name": "stylish kiwifruit",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "tasteful moisturizer",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "quantity_sub",
+        "param": -1
+    },
+    {
+        "name": "exquisite wheelbarrow",
+        "method": "quantity_add",
+        "param": 103
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "quantity_sub",
+        "param": -4
+    },
+    {
+        "name": "gorgeous shovel",
+        "method": "quantity_add",
+        "param": 51
+    },
+    {
+        "name": "sublime guava",
+        "method": "quantity_sub",
+        "param": -5
+    },
+    {
+        "name": "delightful apricot",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "gorgeous exfoliator",
+        "method": "price_abs",
+        "param": 1
+    },
+    {
+        "name": "elegant lotion",
+        "method": "quantity_add",
+        "param": 84
+    },
+    {
+        "name": "attractive insulation",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "quantity_add",
+        "param": 72
+    },
+    {
+        "name": "magnificent roofing",
+        "method": "quantity_sub",
+        "param": -172
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "price_abs",
+        "param": 11821.7
+    },
+    {
+        "name": "trendy nail polish",
+        "method": "price_percent",
+        "param": 0.08
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "price_percent",
+        "param": 0.03
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "price_abs",
+        "param": -8777
+    },
+    {
+        "name": "amazing ladder",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "gorgeous shovel",
+        "method": "price_abs",
+        "param": 12
+    },
+    {
+        "name": "attractive ladder",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "elegant tile",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "price_abs",
+        "param": 59015.00000000001
+    },
+    {
+        "name": "superb drywall",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "marvelous boysenberry",
+        "method": "price_abs",
+        "param": 98.63700000000001
+    },
+    {
+        "name": "marvelous screws",
+        "method": "price_percent",
+        "param": 0.19
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "price_percent",
+        "param": -0.12
+    },
+    {
+        "name": "superb axe",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "elegant lotion",
+        "method": "quantity_add",
+        "param": 68
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "method": "quantity_add",
+        "param": 3
+    },
+    {
+        "name": "exquisite blackberry",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "pretty plum",
+        "method": "quantity_add",
+        "param": 108
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "quantity_add",
+        "param": 2
+    },
+    {
+        "name": "refined lotion",
+        "method": "price_abs",
+        "param": -3
+    },
+    {
+        "name": "elegant plumbing",
+        "method": "quantity_sub",
+        "param": -98
+    },
+    {
+        "name": "magnificent insulation",
+        "method": "price_percent",
+        "param": 0.01
+    },
+    {
+        "name": "nice face wash",
+        "method": "quantity_sub",
+        "param": -102
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "quantity_add",
+        "param": 1
+    },
+    {
+        "name": "sublime serum",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "beautiful conditioner",
+        "method": "price_abs",
+        "param": -1
+    },
+    {
+        "name": "refined electrical",
+        "method": "quantity_add",
+        "param": 87
+    },
+    {
+        "name": "gorgeous exfoliator",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "elegant plumbing",
+        "method": "quantity_add",
+        "param": 183
+    },
+    {
+        "name": "sublime ladder",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "delightful drywall",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "EVGA 500B 80+ BRONZE",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "price_abs",
+        "param": 3849
+    },
+    {
+        "name": "stylish shampoo",
+        "method": "quantity_add",
+        "param": 104
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "price_percent",
+        "param": -0.1
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "quantity_sub",
+        "param": -2
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "price_abs",
+        "param": -8099
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_abs",
+        "param": 6555
+    },
+    {
+        "name": "refined lotion",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "exquisite moustache wax",
+        "method": "quantity_sub",
+        "param": -11
+    },
+    {
+        "name": "amazing bubble bath",
+        "method": "price_percent",
+        "param": -0.11
+    },
+    {
+        "name": "magnificent insulation",
+        "method": "quantity_add",
+        "param": 9
+    },
+    {
+        "name": "sublime ladder",
+        "method": "price_percent",
+        "param": -0.08
+    },
+    {
+        "name": "glamorous nail file",
+        "method": "price_abs",
+        "param": -2
+    },
+    {
+        "name": "stylish shovel",
+        "method": "quantity_sub",
+        "param": -137
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "quantity_add",
+        "param": 2
+    },
+    {
+        "name": "Razer Variau",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "pleasant plum",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "price_abs",
+        "param": -9213
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "quantity_sub",
+        "param": -1
+    },
+    {
+        "name": "magnificent insulation",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "tasteful conditioner",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "elegant raspberry",
+        "method": "quantity_sub",
+        "param": -144
+    },
+    {
+        "name": "superb drywall",
+        "method": "price_percent",
+        "param": 0.01
+    },
+    {
+        "name": "glamorous cherry",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "attractive ladder",
+        "method": "quantity_add",
+        "param": 100
+    },
+    {
+        "name": "marvelous saw",
+        "method": "price_abs",
+        "param": 9
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "quantity_add",
+        "param": 3
+    },
+    {
+        "name": "luxurious peach",
+        "method": "quantity_add",
+        "param": 94
+    },
+    {
+        "name": "beautiful lip balm",
+        "method": "price_percent",
+        "param": 0.08
+    },
+    {
+        "name": "marvelous plumbing",
+        "method": "price_abs",
+        "param": 2
+    },
+    {
+        "name": "tasteful conditioner",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "quantity_sub",
+        "param": -1
+    },
+    {
+        "name": "elegant kiwifruit",
+        "method": "price_abs",
+        "param": -2
+    },
+    {
+        "name": "superb strawberry",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "tasteful conditioner",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "quantity_sub",
+        "param": -8
+    },
+    {
+        "name": "stylish orange",
+        "method": "quantity_sub",
+        "param": -101
+    },
+    {
+        "name": "magnificent windows",
+        "method": "price_abs",
+        "param": 10
+    },
+    {
+        "name": "glamorous apple",
+        "method": "quantity_add",
+        "param": 135
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "quantity_sub",
+        "param": -7
+    },
+    {
+        "name": "superb sunscreen",
+        "method": "price_abs",
+        "param": 0
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "quantity_sub",
+        "param": -1
+    },
+    {
+        "name": "exquisite blackberry",
+        "method": "price_abs",
+        "param": -13
+    },
+    {
+        "name": "attractive wheelbarrow",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "price_percent",
+        "param": 0.02
+    },
+    {
+        "name": "exquisite ladder",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "elegant lotion",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "pleasant night cream",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "refined lip balm",
+        "method": "quantity_sub",
+        "param": -60
+    },
+    {
+        "name": "sublime ladder",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "superb sunscreen",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "gorgeous cherry",
+        "method": "price_abs",
+        "param": -11
+    },
+    {
+        "name": "marvelous plumbing",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "marvelous plumbing",
+        "method": "quantity_add",
+        "param": 35
+    },
+    {
+        "name": "beautiful night cream",
+        "method": "price_percent",
+        "param": -0.05
+    },
+    {
+        "name": "stylish shovel",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "elegant lotion",
+        "method": "price_abs",
+        "param": 100.10000000000001
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_abs",
+        "param": -5518
+    },
+    {
+        "name": "stylish saw",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "delightful scaffolding",
+        "method": "quantity_add",
+        "param": 63
+    },
+    {
+        "name": "glamorous pedicure set",
+        "method": "quantity_sub",
+        "param": -89
+    },
+    {
+        "name": "elegant tile",
+        "method": "price_abs",
+        "param": 14
+    },
+    {
+        "name": "marvelous hair mask",
+        "method": "quantity_sub",
+        "param": -82
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "price_abs",
+        "param": -1777
+    },
+    {
+        "name": "sublime face wash",
+        "method": "price_percent",
+        "param": -0.07
+    },
+    {
+        "name": "stylish grapes",
+        "method": "price_percent",
+        "param": -0.09
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "price_abs",
+        "param": -451
+    },
+    {
+        "name": "attractive ladder",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "marvelous plumbing",
+        "method": "price_abs",
+        "param": 8
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "quantity_sub",
+        "param": -2
+    },
+    {
+        "name": "sublime ladder",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "trendy nail polish",
+        "method": "price_abs",
+        "param": 0
+    },
+    {
+        "name": "beautiful hair mask",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "quantity_add",
+        "param": 1
+    },
+    {
+        "name": "stylish lip balm",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "stylish shovel",
+        "method": "price_abs",
+        "param": 1
+    },
+    {
+        "name": "exquisite wheelbarrow",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "nice face wash",
+        "method": "quantity_sub",
+        "param": -40
+    },
+    {
+        "name": "attractive insulation",
+        "method": "quantity_add",
+        "param": 22
+    },
+    {
+        "name": "glamorous nail file",
+        "method": "quantity_add",
+        "param": 97
+    },
+    {
+        "name": "pleasant plum",
+        "method": "quantity_add",
+        "param": 71
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "quantity_add",
+        "param": 25
+    },
+    {
+        "name": "beautiful chisel",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "tasteful moisturizer",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "elegant plumbing",
+        "method": "price_abs",
+        "param": 3
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "quantity_sub",
+        "param": -7
+    },
+    {
+        "name": "marvelous screws",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "price_abs",
+        "param": 3428
+    },
+    {
+        "name": "superb sunscreen",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "beautiful perfume",
+        "method": "quantity_add",
+        "param": 27
+    },
+    {
+        "name": "sublime tile",
+        "method": "quantity_add",
+        "param": 61
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "price_abs",
+        "param": -3314
+    },
+    {
+        "name": "marvelous hair mask",
+        "method": "quantity_sub",
+        "param": -5
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "beautiful perfume",
+        "method": "quantity_sub",
+        "param": -118
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "price_abs",
+        "param": 1510
+    },
+    {
+        "name": "refined lotion",
+        "method": "quantity_add",
+        "param": 71
+    },
+    {
+        "name": "elegant tile",
+        "method": "price_percent",
+        "param": 0.1
+    },
+    {
+        "name": "marvelous screws",
+        "method": "quantity_add",
+        "param": 121
+    },
+    {
+        "name": "magnificent windows",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "exquisite wheelbarrow",
+        "method": "quantity_sub",
+        "param": -116
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "quantity_sub",
+        "param": -4
+    },
+    {
+        "name": "attractive scaffolding",
+        "method": "price_abs",
+        "param": 5
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "quantity_add",
+        "param": 9
+    },
+    {
+        "name": "amazing banana",
+        "method": "price_percent",
+        "param": 0.13
+    },
+    {
+        "name": "superb sunscreen",
+        "method": "price_percent",
+        "param": 0.09
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "quantity_sub",
+        "param": -10
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "price_abs",
+        "param": 2186
+    },
+    {
+        "name": "amazing perfume",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "refined melon",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "sublime nail polish",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "nice apple",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "pleasant nails",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "quantity_add",
+        "param": 1
+    },
+    {
+        "name": "trendy nail polish",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "gorgeous flooring",
+        "method": "quantity_add",
+        "param": 36
+    },
+    {
+        "name": "AMD Ryzen 5",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "quantity_sub",
+        "param": -6
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "quantity_sub",
+        "param": -1
+    },
+    {
+        "name": "magnificent roofing",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "magnificent wheelbarrow",
+        "method": "quantity_sub",
+        "param": -122
+    },
+    {
+        "name": "attractive insulation",
+        "method": "price_abs",
+        "param": 4
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "price_abs",
+        "param": 15102
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "quantity_sub",
+        "param": -7
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "price_abs",
+        "param": -5207
+    },
+    {
+        "name": "exquisite chisel",
+        "method": "quantity_sub",
+        "param": -57
+    },
+    {
+        "name": "elegant tile",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "superb apricot",
+        "method": "price_percent",
+        "param": 0.18
+    },
+    {
+        "name": "attractive scaffolding",
+        "method": "price_percent",
+        "param": 0.02
+    },
+    {
+        "name": "trendy level",
+        "method": "quantity_sub",
+        "param": -155
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Ricoh Aficio MP",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "marvelous hair mask",
+        "method": "price_percent",
+        "param": 0.16
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "quantity_add",
+        "param": 1
+    },
+    {
+        "name": "delightful plumbing",
+        "method": "quantity_sub",
+        "param": -71
+    },
+    {
+        "name": "refined saw",
+        "method": "quantity_add",
+        "param": 137
+    },
+    {
+        "name": "glamorous nail file",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "price_percent",
+        "param": 0.09
+    },
+    {
+        "name": "elegant kiwifruit",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "AMD Ryzen 5",
+        "method": "price_percent",
+        "param": 0.16
+    },
+    {
+        "name": "trendy saw",
+        "method": "price_abs",
+        "param": 3
+    },
+    {
+        "name": "luxurious windows",
+        "method": "price_percent",
+        "param": -0.16
+    },
+    {
+        "name": "delightful kiwifruit",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "nice apple",
+        "method": "quantity_sub",
+        "param": -8
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "trendy saw",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "elegant apple",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "attractive plumbing",
+        "method": "price_abs",
+        "param": 2
+    },
+    {
+        "name": "superb drywall",
+        "method": "quantity_add",
+        "param": 189
+    },
+    {
+        "name": "magnificent roofing",
+        "method": "quantity_sub",
+        "param": -72
+    },
+    {
+        "name": "glamorous cherry",
+        "method": "quantity_add",
+        "param": 64
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "quantity_sub",
+        "param": -1
+    },
+    {
+        "name": "exquisite blackberry",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "nice apple",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "price_percent",
+        "param": -0.18
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "price_percent",
+        "param": 0.19
+    },
+    {
+        "name": "stylish blackberry",
+        "method": "price_percent",
+        "param": -0.14
+    },
+    {
+        "name": "stylish blackberry",
+        "method": "quantity_sub",
+        "param": -45
+    },
+    {
+        "name": "superb sunscreen",
+        "method": "quantity_add",
+        "param": 31
+    },
+    {
+        "name": "sublime guava",
+        "method": "price_percent",
+        "param": 0.07
+    },
+    {
+        "name": "pleasant body wash",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Ricoh Aficio MP",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "glamorous pedicure set",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "attractive plumbing",
+        "method": "quantity_sub",
+        "param": -128
+    },
+    {
+        "name": "tasteful moisturizer",
+        "method": "quantity_add",
+        "param": 63
+    },
+    {
+        "name": "stylish saw",
+        "method": "price_abs",
+        "param": -8
+    },
+    {
+        "name": "amazing ladder",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "amazing banana",
+        "method": "quantity_sub",
+        "param": -21
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "price_percent",
+        "param": -0.05
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "magnificent insulation",
+        "method": "quantity_add",
+        "param": 117
+    },
+    {
+        "name": "stylish lip balm",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "quantity_add",
+        "param": 2
+    },
+    {
+        "name": "trendy hammer",
+        "method": "price_percent",
+        "param": -0.2
+    },
+    {
+        "name": "stylish grapes",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "AMD Ryzen 5",
+        "method": "quantity_add",
+        "param": 2
+    },
+    {
+        "name": "superb strawberry",
+        "method": "price_abs",
+        "param": -2
+    },
+    {
+        "name": "Razer Variau",
+        "method": "quantity_sub",
+        "param": -6
+    },
+    {
+        "name": "Razer Variau",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "delightful raspberry",
+        "method": "price_abs",
+        "param": 10
+    },
+    {
+        "name": "pretty body wash",
+        "method": "price_abs",
+        "param": 7
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "quantity_add",
+        "param": 1
+    },
+    {
+        "name": "stylish blackberry",
+        "method": "price_abs",
+        "param": 3
+    },
+    {
+        "name": "gorgeous shovel",
+        "method": "quantity_add",
+        "param": 120
+    },
+    {
+        "name": "delightful raspberry",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "gorgeous shovel",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "marvelous plumbing",
+        "method": "quantity_add",
+        "param": 61
+    },
+    {
+        "name": "elegant raspberry",
+        "method": "quantity_sub",
+        "param": -22
+    },
+    {
+        "name": "stylish cranberry",
+        "method": "price_abs",
+        "param": -7
+    },
+    {
+        "name": "beautiful hair mask",
+        "method": "price_abs",
+        "param": 4
+    },
+    {
+        "name": "superb strawberry",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "pretty body wash",
+        "method": "quantity_add",
+        "param": 45
+    },
+    {
+        "name": "pretty ladder",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "tasteful apricot",
+        "method": "price_abs",
+        "param": 7
+    },
+    {
+        "name": "beautiful perfume",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "quantity_sub",
+        "param": -7
+    },
+    {
+        "name": "trendy hammer",
+        "method": "price_abs",
+        "param": 7
+    },
+    {
+        "name": "stylish tape measure",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "refined melon",
+        "method": "price_abs",
+        "param": -3
+    },
+    {
+        "name": "Razer Variau",
+        "method": "price_percent",
+        "param": -0.08
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "price_percent",
+        "param": 0.08
+    },
+    {
+        "name": "refined melon",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "pleasant strawberry",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "trendy nail polish",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "pretty eye cream",
+        "method": "price_percent",
+        "param": 0.19
+    },
+    {
+        "name": "nice face wash",
+        "method": "quantity_add",
+        "param": 40
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "price_percent",
+        "param": 0.2
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "elegant lotion",
+        "method": "price_percent",
+        "param": 0.08
+    },
+    {
+        "name": "stylish saw",
+        "method": "quantity_add",
+        "param": 104
+    },
+    {
+        "name": "amazing shampoo",
+        "method": "price_abs",
+        "param": -15
+    },
+    {
+        "name": "stylish blackberry",
+        "method": "quantity_sub",
+        "param": -51
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "amazing shampoo",
+        "method": "price_abs",
+        "param": 7
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "price_percent",
+        "param": 0.17
+    },
+    {
+        "name": "pretty moustache wax",
+        "method": "quantity_add",
+        "param": 6
+    },
+    {
+        "name": "refined lotion",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "price_percent",
+        "param": 0.08
+    },
+    {
+        "name": "exquisite baseboard",
+        "method": "price_abs",
+        "param": 6
+    },
+    {
+        "name": "pleasant doors",
+        "method": "price_abs",
+        "param": -1
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "quantity_add",
+        "param": 1
+    },
+    {
+        "name": "trendy level",
+        "method": "quantity_sub",
+        "param": -141
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "method": "price_abs",
+        "param": -3320
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "quantity_sub",
+        "param": -11
+    },
+    {
+        "name": "refined bubble bath",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "attractive ladder",
+        "method": "quantity_sub",
+        "param": -46
+    },
+    {
+        "name": "Razer Variau",
+        "method": "quantity_sub",
+        "param": -1
+    },
+    {
+        "name": "sublime ladder",
+        "method": "quantity_add",
+        "param": 100
+    },
+    {
+        "name": "refined saw",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "stylish windows",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "amazing facial cleanser",
+        "method": "quantity_sub",
+        "param": -42
+    },
+    {
+        "name": "nice face wash",
+        "method": "quantity_add",
+        "param": 17
+    },
+    {
+        "name": "sublime ladder",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "magnificent windows",
+        "method": "quantity_sub",
+        "param": -61
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "attractive plumbing",
+        "method": "quantity_sub",
+        "param": -92
+    },
+    {
+        "name": "amazing glue",
+        "method": "price_abs",
+        "param": 9
+    },
+    {
+        "name": "refined lotion",
+        "method": "quantity_add",
+        "param": 12
+    },
+    {
+        "name": "exquisite moustache wax",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "superb drywall",
+        "method": "quantity_sub",
+        "param": -123
+    },
+    {
+        "name": "amazing glue",
+        "method": "quantity_sub",
+        "param": -153
+    },
+    {
+        "name": "delightful raspberry",
+        "method": "quantity_sub",
+        "param": -4
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "quantity_add",
+        "param": 44
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_percent",
+        "param": -0.11
+    },
+    {
+        "name": "tasteful conditioner",
+        "method": "price_percent",
+        "param": 0.17
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "tasteful plum",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "price_abs",
+        "param": -9739
+    },
+    {
+        "name": "attractive scaffolding",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "superb axe",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Razer Variau",
+        "method": "price_abs",
+        "param": 4888
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "AMD Ryzen 5",
+        "method": "quantity_add",
+        "param": 10
+    },
+    {
+        "name": "delightful orange",
+        "method": "price_percent",
+        "param": 0.06
+    },
+    {
+        "name": "trendy level",
+        "method": "quantity_add",
+        "param": 26
+    },
+    {
+        "name": "beautiful lip balm",
+        "method": "quantity_add",
+        "param": 42
+    },
+    {
+        "name": "amazing ladder",
+        "method": "quantity_sub",
+        "param": -164
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "quantity_sub",
+        "param": -1
+    },
+    {
+        "name": "elegant nail polish",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "sublime tile",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "quantity_add",
+        "param": 1
+    },
+    {
+        "name": "exquisite moustache wax",
+        "method": "quantity_sub",
+        "param": -21
+    },
+    {
+        "name": "attractive wheelbarrow",
+        "method": "price_percent",
+        "param": 0.13
+    },
+    {
+        "name": "refined insulation",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "gorgeous shovel",
+        "method": "price_abs",
+        "param": 0
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "price_abs",
+        "param": 1884
+    },
+    {
+        "name": "beautiful shampoo",
+        "method": "price_abs",
+        "param": -3
+    },
+    {
+        "name": "stylish blackberry",
+        "method": "price_percent",
+        "param": 0.07
+    },
+    {
+        "name": "luxurious sunscreen",
+        "method": "price_abs",
+        "param": -1
+    },
+    {
+        "name": "refined glue",
+        "method": "quantity_add",
+        "param": 69
+    },
+    {
+        "name": "gorgeous exfoliator",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "method": "quantity_sub",
+        "param": -1
+    },
+    {
+        "name": "superb drywall",
+        "method": "price_percent",
+        "param": -0.02
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "price_abs",
+        "param": 5
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "beautiful chisel",
+        "method": "quantity_add",
+        "param": 44
+    },
+    {
+        "name": "elegant tile",
+        "method": "price_percent",
+        "param": -0.02
+    },
+    {
+        "name": "tasteful nail file",
+        "method": "quantity_add",
+        "param": 45
+    },
+    {
+        "name": "sublime serum",
+        "method": "quantity_add",
+        "param": 151
+    },
+    {
+        "name": "pretty eye cream",
+        "method": "price_percent",
+        "param": -0.03
+    },
+    {
+        "name": "stylish cranberry",
+        "method": "quantity_sub",
+        "param": -58
+    },
+    {
+        "name": "amazing siding",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "beautiful chisel",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "pretty eye cream",
+        "method": "quantity_add",
+        "param": 168
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "quantity_sub",
+        "param": -8
+    },
+    {
+        "name": "EVGA 500B 80+ BRONZE",
+        "method": "quantity_sub",
+        "param": -3
+    },
+    {
+        "name": "beautiful chisel",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "refined electrical",
+        "method": "quantity_sub",
+        "param": -103
+    },
+    {
+        "name": "marvelous screws",
+        "method": "price_abs",
+        "param": 0
+    },
+    {
+        "name": "exquisite ladder",
+        "method": "price_percent",
+        "param": 0.2
+    },
+    {
+        "name": "delightful banana",
+        "method": "quantity_add",
+        "param": 61
+    },
+    {
+        "name": "superb sunscreen",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "delightful drywall",
+        "method": "price_abs",
+        "param": -4
+    },
+    {
+        "name": "sublime blueberry",
+        "method": "price_percent",
+        "param": -0.03
+    },
+    {
+        "name": "exquisite moustache wax",
+        "method": "quantity_add",
+        "param": 21
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "price_abs",
+        "param": -5872
+    },
+    {
+        "name": "marvelous screws",
+        "method": "price_percent",
+        "param": -0.13
+    },
+    {
+        "name": "stylish lip balm",
+        "method": "price_abs",
+        "param": 3
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "price_percent",
+        "param": 0.03
+    },
+    {
+        "name": "glamorous flooring",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "attractive insulation",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "refined electrical",
+        "method": "quantity_add",
+        "param": 8
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "price_abs",
+        "param": 3555
+    },
+    {
+        "name": "exquisite chisel",
+        "method": "quantity_sub",
+        "param": -107
+    },
+    {
+        "name": "stylish windows",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "beautiful hair mask",
+        "method": "quantity_add",
+        "param": 109
+    },
+    {
+        "name": "marvelous hair mask",
+        "method": "quantity_add",
+        "param": 117
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "price_percent",
+        "param": 0.01
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "quantity_add",
+        "param": 2
+    },
+    {
+        "name": "gorgeous flooring",
+        "method": "price_percent",
+        "param": -0.02
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_percent",
+        "param": -0.05
+    },
+    {
+        "name": "tasteful apricot",
+        "method": "quantity_sub",
+        "param": -108
+    },
+    {
+        "name": "amazing perfume",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "elegant apple",
+        "method": "price_percent",
+        "param": 0.12
+    },
+    {
+        "name": "Razer Variau",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "stylish blackberry",
+        "method": "quantity_sub",
+        "param": -42
+    },
+    {
+        "name": "refined electrical",
+        "method": "price_abs",
+        "param": -2
+    },
+    {
+        "name": "tasteful moisturizer",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "attractive plumbing",
+        "method": "price_percent",
+        "param": -0.08
+    },
+    {
+        "name": "Ricoh Aficio MP",
+        "method": "price_percent",
+        "param": 0.15
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "quantity_add",
+        "param": 2
+    },
+    {
+        "name": "sublime ladder",
+        "method": "price_abs",
+        "param": -2
+    },
+    {
+        "name": "glamorous perfume",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "quantity_add",
+        "param": 6
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "price_abs",
+        "param": 3844
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "pretty body wash",
+        "method": "price_abs",
+        "param": -11
+    },
+    {
+        "name": "elegant lotion",
+        "method": "quantity_sub",
+        "param": -50
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "quantity_add",
+        "param": 3
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "quantity_add",
+        "param": 1
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "price_percent",
+        "param": -0.05
+    },
+    {
+        "name": "refined bubble bath",
+        "method": "price_abs",
+        "param": -4
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "price_abs",
+        "param": -10676
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "quantity_add",
+        "param": 56
+    },
+    {
+        "name": "tasteful moisturizer",
+        "method": "price_percent",
+        "param": 0.17
+    },
+    {
+        "name": "superb strawberry",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "stylish blackberry",
+        "method": "quantity_add",
+        "param": 69
+    },
+    {
+        "name": "sublime face wash",
+        "method": "quantity_sub",
+        "param": -136
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "quantity_add",
+        "param": 10
+    },
+    {
+        "name": "gorgeous papaya",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Ricoh Aficio MP",
+        "method": "quantity_add",
+        "param": 7
+    },
+    {
+        "name": "elegant nail polish",
+        "method": "price_abs",
+        "param": -12
+    },
+    {
+        "name": "superb axe",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "price_percent",
+        "param": 0.04
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "superb chisel",
+        "method": "price_percent",
+        "param": 0.1
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "nice apple",
+        "method": "quantity_add",
+        "param": 56
+    },
+    {
+        "name": "marvelous screws",
+        "method": "quantity_add",
+        "param": 144
+    },
+    {
+        "name": "AMD Ryzen 5",
+        "method": "price_percent",
+        "param": -0.09
+    },
+    {
+        "name": "amazing ladder",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "amazing shampoo",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "gorgeous exfoliator",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "pretty moustache wax",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "stylish kiwifruit",
+        "method": "quantity_add",
+        "param": 63
+    },
+    {
+        "name": "elegant kiwifruit",
+        "method": "quantity_sub",
+        "param": -20
+    },
+    {
+        "name": "EVGA 500B 80+ BRONZE",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "superb axe",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "pretty body wash",
+        "method": "price_percent",
+        "param": -0.03
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "price_percent",
+        "param": 0.17
+    },
+    {
+        "name": "pleasant strawberry",
+        "method": "quantity_add",
+        "param": 141
+    },
+    {
+        "name": "EVGA 500B 80+ BRONZE",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "stylish windows",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "exquisite blackberry",
+        "method": "quantity_sub",
+        "param": -27
+    },
+    {
+        "name": "elegant kiwifruit",
+        "method": "quantity_sub",
+        "param": -104
+    },
+    {
+        "name": "trendy saw",
+        "method": "quantity_add",
+        "param": 89
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "elegant tile",
+        "method": "price_percent",
+        "param": 0.11
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "price_abs",
+        "param": -21
+    },
+    {
+        "name": "elegant apple",
+        "method": "quantity_add",
+        "param": 36
+    },
+    {
+        "name": "tasteful moisturizer",
+        "method": "price_abs",
+        "param": 1
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "quantity_add",
+        "param": 39
+    },
+    {
+        "name": "attractive plumbing",
+        "method": "quantity_sub",
+        "param": -143
+    },
+    {
+        "name": "beautiful conditioner",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "beautiful shampoo",
+        "method": "quantity_add",
+        "param": 32
+    },
+    {
+        "name": "magnificent insulation",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "price_percent",
+        "param": 0.07
+    },
+    {
+        "name": "trendy level",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "price_abs",
+        "param": -94
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "quantity_add",
+        "param": 7
+    },
+    {
+        "name": "beautiful conditioner",
+        "method": "price_abs",
+        "param": 0
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "price_percent",
+        "param": 0.05
+    },
+    {
+        "name": "stylish orange",
+        "method": "price_percent",
+        "param": 0.12
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "elegant raspberry",
+        "method": "quantity_sub",
+        "param": -79
+    },
+    {
+        "name": "superb sunscreen",
+        "method": "quantity_sub",
+        "param": -8
+    },
+    {
+        "name": "trendy nail polish",
+        "method": "quantity_sub",
+        "param": -77
+    },
+    {
+        "name": "elegant apple",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "quantity_sub",
+        "param": -1
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "price_abs",
+        "param": 44506.0
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "price_percent",
+        "param": 0.01
+    },
+    {
+        "name": "amazing perfume",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "refined melon",
+        "method": "price_percent",
+        "param": 0.01
+    },
+    {
+        "name": "sublime ladder",
+        "method": "quantity_add",
+        "param": 76
+    },
+    {
+        "name": "nice apple",
+        "method": "price_percent",
+        "param": -0.18
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "beautiful shampoo",
+        "method": "price_abs",
+        "param": -14
+    },
+    {
+        "name": "elegant kiwifruit",
+        "method": "quantity_add",
+        "param": 18
+    },
+    {
+        "name": "refined insulation",
+        "method": "price_abs",
+        "param": 1
+    },
+    {
+        "name": "beautiful hair mask",
+        "method": "quantity_sub",
+        "param": -132
+    },
+    {
+        "name": "glamorous cherry",
+        "method": "price_abs",
+        "param": 11
+    },
+    {
+        "name": "refined insulation",
+        "method": "quantity_sub",
+        "param": -79
+    },
+    {
+        "name": "superb chisel",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "glamorous cherry",
+        "method": "quantity_add",
+        "param": 120
+    },
+    {
+        "name": "exquisite ladder",
+        "method": "price_abs",
+        "param": -4
+    },
+    {
+        "name": "AMD Ryzen 5",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "luxurious cherry",
+        "method": "quantity_sub",
+        "param": -10
+    },
+    {
+        "name": "luxurious cherry",
+        "method": "price_abs",
+        "param": 4
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "quantity_sub",
+        "param": -2
+    },
+    {
+        "name": "amazing ladder",
+        "method": "quantity_sub",
+        "param": -153
+    },
+    {
+        "name": "exquisite moustache wax",
+        "method": "quantity_sub",
+        "param": -2
+    },
+    {
+        "name": "beautiful shampoo",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "glamorous apple",
+        "method": "price_percent",
+        "param": -0.16
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "price_abs",
+        "param": -1
+    },
+    {
+        "name": "refined lotion",
+        "method": "quantity_sub",
+        "param": -4
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "price_abs",
+        "param": 80643.20000000001
+    },
+    {
+        "name": "tasteful moisturizer",
+        "method": "quantity_sub",
+        "param": -104
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "price_abs",
+        "param": -1
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "price_percent",
+        "param": 0.03
+    },
+    {
+        "name": "gorgeous flooring",
+        "method": "price_percent",
+        "param": -0.02
+    },
+    {
+        "name": "exquisite chisel",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "stylish grapes",
+        "method": "price_abs",
+        "param": 6
+    },
+    {
+        "name": "stylish kiwifruit",
+        "method": "quantity_add",
+        "param": 109
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "quantity_sub",
+        "param": -114
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "price_abs",
+        "param": -638
+    },
+    {
+        "name": "refined saw",
+        "method": "quantity_sub",
+        "param": -19
+    },
+    {
+        "name": "delightful scaffolding",
+        "method": "price_abs",
+        "param": -5
+    },
+    {
+        "name": "elegant kiwifruit",
+        "method": "quantity_sub",
+        "param": -50
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "price_abs",
+        "param": -7801
+    },
+    {
+        "name": "stylish blackberry",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "price_percent",
+        "param": -0.08
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "luxurious windows",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "superb apricot",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "amazing shampoo",
+        "method": "quantity_add",
+        "param": 30
+    },
+    {
+        "name": "stylish shampoo",
+        "method": "quantity_sub",
+        "param": -87
+    },
+    {
+        "name": "elegant raspberry",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "refined glue",
+        "method": "quantity_add",
+        "param": 102
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "quantity_sub",
+        "param": -4
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "quantity_add",
+        "param": 3
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "gorgeous trim",
+        "method": "quantity_sub",
+        "param": -83
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "tasteful nail file",
+        "method": "quantity_sub",
+        "param": -160
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "magnificent windows",
+        "method": "price_abs",
+        "param": -15
+    },
+    {
+        "name": "AMD Ryzen 5",
+        "method": "quantity_sub",
+        "param": -10
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "attractive trim",
+        "method": "quantity_add",
+        "param": 5
+    },
+    {
+        "name": "beautiful perfume",
+        "method": "quantity_add",
+        "param": 93
+    },
+    {
+        "name": "delightful kiwifruit",
+        "method": "price_percent",
+        "param": -0.15
+    },
+    {
+        "name": "luxurious peach",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "price_abs",
+        "param": -1446
+    },
+    {
+        "name": "luxurious peach",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "sublime tile",
+        "method": "price_percent",
+        "param": 0.09
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "price_abs",
+        "param": 2271
+    },
+    {
+        "name": "trendy level",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "refined glue",
+        "method": "price_percent",
+        "param": -0.01
+    },
+    {
+        "name": "tasteful apricot",
+        "method": "quantity_add",
+        "param": 125
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "refined insulation",
+        "method": "price_percent",
+        "param": 0.2
+    },
+    {
+        "name": "refined bubble bath",
+        "method": "quantity_sub",
+        "param": -125
+    },
+    {
+        "name": "stylish cranberry",
+        "method": "quantity_sub",
+        "param": -80
+    },
+    {
+        "name": "elegant tile",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "stylish shovel",
+        "method": "quantity_sub",
+        "param": -25
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_abs",
+        "param": -3563
+    },
+    {
+        "name": "tasteful moisturizer",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "tasteful apricot",
+        "method": "price_abs",
+        "param": 9
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "price_abs",
+        "param": 10927
+    },
+    {
+        "name": "nice face wash",
+        "method": "price_percent",
+        "param": -0.06
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "quantity_sub",
+        "param": -6
+    },
+    {
+        "name": "marvelous plumbing",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "glamorous perfume",
+        "method": "price_percent",
+        "param": -0.06
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "price_abs",
+        "param": 6088
+    },
+    {
+        "name": "amazing ladder",
+        "method": "quantity_sub",
+        "param": -41
+    },
+    {
+        "name": "beautiful perfume",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "price_percent",
+        "param": 0.06
+    },
+    {
+        "name": "sublime face wash",
+        "method": "price_percent",
+        "param": 0.05
+    },
+    {
+        "name": "gorgeous shovel",
+        "method": "quantity_add",
+        "param": 69
+    },
+    {
+        "name": "stylish cranberry",
+        "method": "quantity_sub",
+        "param": -22
+    },
+    {
+        "name": "exquisite blackberry",
+        "method": "quantity_sub",
+        "param": -42
+    },
+    {
+        "name": "elegant apple",
+        "method": "price_abs",
+        "param": 2
+    },
+    {
+        "name": "marvelous screws",
+        "method": "quantity_add",
+        "param": 106
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "quantity_sub",
+        "param": -8
+    },
+    {
+        "name": "attractive moustache wax",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "stylish saw",
+        "method": "quantity_add",
+        "param": 6
+    },
+    {
+        "name": "superb drywall",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "glamorous cherry",
+        "method": "quantity_sub",
+        "param": -130
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "price_abs",
+        "param": -5709
+    },
+    {
+        "name": "stylish cranberry",
+        "method": "price_percent",
+        "param": -0.13
+    },
+    {
+        "name": "pleasant body wash",
+        "method": "price_percent",
+        "param": 0.03
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "exquisite blackberry",
+        "method": "quantity_sub",
+        "param": -76
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "price_abs",
+        "param": -3765
+    },
+    {
+        "name": "nice screws",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "superb sunscreen",
+        "method": "price_percent",
+        "param": -0.14
+    },
+    {
+        "name": "elegant kiwifruit",
+        "method": "quantity_add",
+        "param": 41
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "price_percent",
+        "param": 0.16
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "price_percent",
+        "param": -0.12
+    },
+    {
+        "name": "glamorous apple",
+        "method": "quantity_sub",
+        "param": -15
+    },
+    {
+        "name": "sublime serum",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "pretty ladder",
+        "method": "quantity_add",
+        "param": 110
+    },
+    {
+        "name": "stylish saw",
+        "method": "quantity_sub",
+        "param": -84
+    },
+    {
+        "name": "sublime face wash",
+        "method": "quantity_add",
+        "param": 111
+    },
+    {
+        "name": "tasteful apricot",
+        "method": "quantity_sub",
+        "param": -38
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "quantity_add",
+        "param": 5
+    },
+    {
+        "name": "marvelous plumbing",
+        "method": "price_percent",
+        "param": -0.02
+    },
+    {
+        "name": "amazing bubble bath",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "exquisite ladder",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "superb chisel",
+        "method": "price_percent",
+        "param": -0.09
+    },
+    {
+        "name": "nice apple",
+        "method": "quantity_sub",
+        "param": -89
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "quantity_add",
+        "param": 1
+    },
+    {
+        "name": "delightful plumbing",
+        "method": "quantity_add",
+        "param": 83
+    },
+    {
+        "name": "refined bubble bath",
+        "method": "price_abs",
+        "param": -2
+    },
+    {
+        "name": "attractive plumbing",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "quantity_sub",
+        "param": -4
+    },
+    {
+        "name": "luxurious peach",
+        "method": "quantity_sub",
+        "param": -60
+    },
+    {
+        "name": "amazing shampoo",
+        "method": "price_percent",
+        "param": 0.06
+    },
+    {
+        "name": "amazing glue",
+        "method": "price_abs",
+        "param": -2
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "pleasant strawberry",
+        "method": "price_abs",
+        "param": 3
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_percent",
+        "param": -0.12
+    },
+    {
+        "name": "gorgeous flooring",
+        "method": "quantity_add",
+        "param": 71
+    },
+    {
+        "name": "AMD Ryzen 5",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "quantity_add",
+        "param": 1
+    },
+    {
+        "name": "sublime nail polish",
+        "method": "price_abs",
+        "param": -8
+    },
+    {
+        "name": "AMD Ryzen 5",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "refined bubble bath",
+        "method": "price_percent",
+        "param": 0.18
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "elegant raspberry",
+        "method": "quantity_sub",
+        "param": -43
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "quantity_sub",
+        "param": -8
+    },
+    {
+        "name": "beautiful chisel",
+        "method": "quantity_sub",
+        "param": -55
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "quantity_add",
+        "param": 23
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "price_percent",
+        "param": -0.2
+    },
+    {
+        "name": "tasteful moisturizer",
+        "method": "price_percent",
+        "param": -0.11
+    },
+    {
+        "name": "pleasant night cream",
+        "method": "quantity_add",
+        "param": 86
+    },
+    {
+        "name": "Razer Variau",
+        "method": "quantity_add",
+        "param": 2
+    },
+    {
+        "name": "luxurious sunscreen",
+        "method": "quantity_sub",
+        "param": -120
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "quantity_add",
+        "param": 5
+    },
+    {
+        "name": "AMD Ryzen 5",
+        "method": "price_percent",
+        "param": -0.08
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "quantity_sub",
+        "param": -5
+    },
+    {
+        "name": "stylish shampoo",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "gorgeous shovel",
+        "method": "price_abs",
+        "param": 8
+    },
+    {
+        "name": "pretty moustache wax",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "trendy hammer",
+        "method": "quantity_sub",
+        "param": -134
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "price_percent",
+        "param": 0.09
+    },
+    {
+        "name": "glamorous nail file",
+        "method": "quantity_sub",
+        "param": -8
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "marvelous boysenberry",
+        "method": "quantity_add",
+        "param": 121
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "price_abs",
+        "param": -1890
+    },
+    {
+        "name": "trendy saw",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "AMD Ryzen 5",
+        "method": "price_abs",
+        "param": 4742
+    },
+    {
+        "name": "delightful raspberry",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "stylish cranberry",
+        "method": "price_percent",
+        "param": -0.18
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "quantity_sub",
+        "param": -2
+    },
+    {
+        "name": "attractive plumbing",
+        "method": "price_percent",
+        "param": 0.13
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_percent",
+        "param": 0.03
+    },
+    {
+        "name": "amazing perfume",
+        "method": "quantity_add",
+        "param": 76
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "quantity_add",
+        "param": 2
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "sublime tile",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "luxurious peach",
+        "method": "quantity_sub",
+        "param": -8
+    },
+    {
+        "name": "exquisite chisel",
+        "method": "quantity_add",
+        "param": 67
+    },
+    {
+        "name": "refined melon",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "quantity_sub",
+        "param": -2
+    },
+    {
+        "name": "marvelous plumbing",
+        "method": "quantity_sub",
+        "param": -75
+    },
+    {
+        "name": "glamorous cherry",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "delightful orange",
+        "method": "price_abs",
+        "param": 3
+    },
+    {
+        "name": "stylish orange",
+        "method": "quantity_add",
+        "param": 109
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "superb chisel",
+        "method": "quantity_add",
+        "param": 175
+    },
+    {
+        "name": "tasteful nail file",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "price_percent",
+        "param": 0.02
+    },
+    {
+        "name": "trendy level",
+        "method": "price_abs",
+        "param": -9
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "price_abs",
+        "param": 4163
+    },
+    {
+        "name": "nice face wash",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "magnificent insulation",
+        "method": "price_abs",
+        "param": 3
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "glamorous nail file",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "exquisite blackberry",
+        "method": "quantity_sub",
+        "param": -39
+    },
+    {
+        "name": "stylish shampoo",
+        "method": "quantity_add",
+        "param": 112
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "marvelous plumbing",
+        "method": "price_percent",
+        "param": 0.17
+    },
+    {
+        "name": "refined saw",
+        "method": "price_abs",
+        "param": 6
+    },
+    {
+        "name": "EVGA 500B 80+ BRONZE",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "quantity_sub",
+        "param": -2
+    },
+    {
+        "name": "marvelous boysenberry",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "attractive insulation",
+        "method": "price_abs",
+        "param": 4
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "quantity_add",
+        "param": 6
+    },
+    {
+        "name": "exquisite blackberry",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "pleasant nails",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Razer Variau",
+        "method": "price_percent",
+        "param": 0.05
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "sublime ladder",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "EVGA 500B 80+ BRONZE",
+        "method": "price_abs",
+        "param": -7170
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "elegant apple",
+        "method": "price_percent",
+        "param": -0.15
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "quantity_add",
+        "param": 3
+    },
+    {
+        "name": "elegant apple",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "trendy hammer",
+        "method": "quantity_add",
+        "param": 46
+    },
+    {
+        "name": "refined lotion",
+        "method": "price_percent",
+        "param": -0.11
+    },
+    {
+        "name": "attractive scaffolding",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "pleasant strawberry",
+        "method": "price_abs",
+        "param": 7
+    },
+    {
+        "name": "pleasant plum",
+        "method": "quantity_sub",
+        "param": -8
+    },
+    {
+        "name": "elegant lotion",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "quantity_sub",
+        "param": -5
+    },
+    {
+        "name": "tasteful plum",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "beautiful chisel",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "tasteful moisturizer",
+        "method": "quantity_add",
+        "param": 81
+    },
+    {
+        "name": "trendy saw",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "glamorous apple",
+        "method": "price_abs",
+        "param": 1
+    },
+    {
+        "name": "delightful kiwifruit",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "beautiful chisel",
+        "method": "quantity_sub",
+        "param": -39
+    },
+    {
+        "name": "elegant kiwifruit",
+        "method": "quantity_sub",
+        "param": -62
+    },
+    {
+        "name": "pretty toothpaste",
+        "method": "price_abs",
+        "param": 70.74100000000001
+    },
+    {
+        "name": "pretty body wash",
+        "method": "quantity_sub",
+        "param": -140
+    },
+    {
+        "name": "tasteful moisturizer",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Razer Variau",
+        "method": "price_percent",
+        "param": 0.15
+    },
+    {
+        "name": "refined insulation",
+        "method": "quantity_add",
+        "param": 39
+    },
+    {
+        "name": "amazing shampoo",
+        "method": "quantity_add",
+        "param": 114
+    },
+    {
+        "name": "attractive insulation",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "elegant tile",
+        "method": "price_percent",
+        "param": -0.19
+    },
+    {
+        "name": "glamorous apple",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "attractive orange",
+        "method": "price_percent",
+        "param": 0.2
+    },
+    {
+        "name": "beautiful shampoo",
+        "method": "quantity_sub",
+        "param": -97
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_percent",
+        "param": 0.17
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "price_percent",
+        "param": 0.07
+    },
+    {
+        "name": "sublime serum",
+        "method": "price_percent",
+        "param": 0.14
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "quantity_sub",
+        "param": -7
+    },
+    {
+        "name": "trendy level",
+        "method": "price_percent",
+        "param": -0.03
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_percent",
+        "param": 0.05
+    },
+    {
+        "name": "glamorous nail file",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "elegant plumbing",
+        "method": "price_percent",
+        "param": -0.17
+    },
+    {
+        "name": "attractive ladder",
+        "method": "price_percent",
+        "param": 0.2
+    },
+    {
+        "name": "exquisite ladder",
+        "method": "quantity_sub",
+        "param": -82
+    },
+    {
+        "name": "trendy saw",
+        "method": "price_abs",
+        "param": 13
+    },
+    {
+        "name": "glamorous toner",
+        "method": "quantity_add",
+        "param": 26
+    },
+    {
+        "name": "marvelous hair mask",
+        "method": "quantity_sub",
+        "param": -41
+    },
+    {
+        "name": "refined electrical",
+        "method": "price_abs",
+        "param": 3
+    },
+    {
+        "name": "sublime serum",
+        "method": "quantity_sub",
+        "param": -134
+    },
+    {
+        "name": "gorgeous papaya",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "pretty plum",
+        "method": "price_abs",
+        "param": 0
+    },
+    {
+        "name": "delightful raspberry",
+        "method": "price_percent",
+        "param": 0.13
+    },
+    {
+        "name": "refined electrical",
+        "method": "price_percent",
+        "param": 0.2
+    },
+    {
+        "name": "sublime tile",
+        "method": "price_percent",
+        "param": 0.08
+    },
+    {
+        "name": "pretty plum",
+        "method": "price_abs",
+        "param": 5
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "method": "quantity_add",
+        "param": 3
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "quantity_add",
+        "param": 3
+    },
+    {
+        "name": "tasteful conditioner",
+        "method": "quantity_add",
+        "param": 130
+    },
+    {
+        "name": "refined insulation",
+        "method": "price_abs",
+        "param": -5
+    },
+    {
+        "name": "superb apricot",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "superb sunscreen",
+        "method": "price_abs",
+        "param": 5
+    },
+    {
+        "name": "trendy axe",
+        "method": "quantity_add",
+        "param": 121
+    },
+    {
+        "name": "refined melon",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "trendy axe",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "superb strawberry",
+        "method": "price_percent",
+        "param": -0.07
+    },
+    {
+        "name": "elegant nail polish",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "nice face wash",
+        "method": "quantity_add",
+        "param": 83
+    },
+    {
+        "name": "delightful apricot",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "quantity_add",
+        "param": 3
+    },
+    {
+        "name": "delightful banana",
+        "method": "quantity_add",
+        "param": 14
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "price_abs",
+        "param": 14601
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "pretty ladder",
+        "method": "price_abs",
+        "param": -1
+    },
+    {
+        "name": "beautiful shampoo",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "quantity_add",
+        "param": 2
+    },
+    {
+        "name": "exquisite chisel",
+        "method": "price_abs",
+        "param": 13
+    },
+    {
+        "name": "nice face wash",
+        "method": "quantity_add",
+        "param": 89
+    },
+    {
+        "name": "amazing siding",
+        "method": "quantity_add",
+        "param": 42
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "price_abs",
+        "param": 12081
+    },
+    {
+        "name": "trendy saw",
+        "method": "price_abs",
+        "param": 109.956
+    },
+    {
+        "name": "pretty plum",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "stylish tape measure",
+        "method": "price_abs",
+        "param": 1
+    },
+    {
+        "name": "elegant kiwifruit",
+        "method": "price_percent",
+        "param": -0.1
+    },
+    {
+        "name": "magnificent windows",
+        "method": "price_abs",
+        "param": -4
+    },
+    {
+        "name": "sublime nail polish",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "price_abs",
+        "param": -18706
+    },
+    {
+        "name": "glamorous cherry",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "delightful kiwifruit",
+        "method": "quantity_add",
+        "param": 5
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "trendy saw",
+        "method": "quantity_add",
+        "param": 167
+    },
+    {
+        "name": "marvelous screws",
+        "method": "quantity_add",
+        "param": 23
+    },
+    {
+        "name": "stylish shovel",
+        "method": "quantity_add",
+        "param": 49
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "price_abs",
+        "param": -2113
+    },
+    {
+        "name": "delightful scaffolding",
+        "method": "price_percent",
+        "param": 0.07
+    },
+    {
+        "name": "attractive plumbing",
+        "method": "quantity_sub",
+        "param": -61
+    },
+    {
+        "name": "attractive trim",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "glamorous nail file",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "luxurious peach",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "amazing glue",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "trendy hammer",
+        "method": "price_percent",
+        "param": -0.08
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "quantity_add",
+        "param": 3
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_percent",
+        "param": 0.0
+    },
+    {
+        "name": "amazing bubble bath",
+        "method": "price_percent",
+        "param": -0.15
+    },
+    {
+        "name": "refined melon",
+        "method": "price_percent",
+        "param": -0.11
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "price_abs",
+        "param": -2355
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "price_percent",
+        "param": -0.04
+    },
+    {
+        "name": "magnificent insulation",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "elegant raspberry",
+        "method": "quantity_add",
+        "param": 160
+    },
+    {
+        "name": "attractive moustache wax",
+        "method": "price_abs",
+        "param": -4
+    },
+    {
+        "name": "gorgeous trim",
+        "method": "price_abs",
+        "param": 3
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "price_abs",
+        "param": -4374
+    },
+    {
+        "name": "refined bubble bath",
+        "method": "quantity_sub",
+        "param": -89
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "quantity_add",
+        "param": 10
+    },
+    {
+        "name": "elegant lotion",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "exquisite chisel",
+        "method": "quantity_sub",
+        "param": -2
+    },
+    {
+        "name": "sublime serum",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "tasteful nail file",
+        "method": "quantity_add",
+        "param": 27
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "glamorous cherry",
+        "method": "price_percent",
+        "param": -0.11
+    },
+    {
+        "name": "stylish tape measure",
+        "method": "quantity_add",
+        "param": 30
+    },
+    {
+        "name": "luxurious sunscreen",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "stylish cranberry",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "superb axe",
+        "method": "quantity_add",
+        "param": 129
+    },
+    {
+        "name": "attractive ladder",
+        "method": "quantity_sub",
+        "param": -9
+    },
+    {
+        "name": "stylish shampoo",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "price_abs",
+        "param": -12875
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "quantity_add",
+        "param": 1
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_abs",
+        "param": 2432
+    },
+    {
+        "name": "amazing glue",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "AMD Ryzen 5",
+        "method": "price_percent",
+        "param": 0.02
+    },
+    {
+        "name": "delightful banana",
+        "method": "price_abs",
+        "param": -3
+    },
+    {
+        "name": "glamorous flooring",
+        "method": "price_percent",
+        "param": -0.04
+    },
+    {
+        "name": "beautiful shampoo",
+        "method": "quantity_add",
+        "param": 122
+    },
+    {
+        "name": "glamorous perfume",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "amazing shampoo",
+        "method": "price_percent",
+        "param": 0.07
+    },
+    {
+        "name": "refined melon",
+        "method": "price_percent",
+        "param": -0.1
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "price_percent",
+        "param": -0.1
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "quantity_sub",
+        "param": -2
+    },
+    {
+        "name": "refined saw",
+        "method": "price_abs",
+        "param": 8
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "price_percent",
+        "param": 0.13
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_abs",
+        "param": -3242
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "delightful banana",
+        "method": "quantity_add",
+        "param": 101
+    },
+    {
+        "name": "exquisite ladder",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "marvelous screws",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "price_percent",
+        "param": 0.19
+    },
+    {
+        "name": "elegant insulation",
+        "method": "quantity_sub",
+        "param": -14
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "quantity_add",
+        "param": 7
+    },
+    {
+        "name": "delightful raspberry",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "superb strawberry",
+        "method": "quantity_sub",
+        "param": -114
+    },
+    {
+        "name": "elegant nail polish",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "quantity_sub",
+        "param": -6
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "price_percent",
+        "param": -0.02
+    },
+    {
+        "name": "beautiful shampoo",
+        "method": "price_percent",
+        "param": -0.12
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "price_percent",
+        "param": -0.11
+    },
+    {
+        "name": "exquisite ladder",
+        "method": "price_abs",
+        "param": 53.09700000000001
+    },
+    {
+        "name": "elegant lotion",
+        "method": "price_percent",
+        "param": 0.09
+    },
+    {
+        "name": "refined insulation",
+        "method": "price_abs",
+        "param": -1
+    },
+    {
+        "name": "tasteful conditioner",
+        "method": "price_abs",
+        "param": 4
+    },
+    {
+        "name": "glamorous nail file",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "quantity_sub",
+        "param": -3
+    },
+    {
+        "name": "glamorous apple",
+        "method": "quantity_sub",
+        "param": -163
+    },
+    {
+        "name": "attractive baby shampoo",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "refined lotion",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "delightful raspberry",
+        "method": "price_abs",
+        "param": -6
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "price_percent",
+        "param": 0.15
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "pretty plum",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "elegant insulation",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "luxurious windows",
+        "method": "price_abs",
+        "param": -5
+    },
+    {
+        "name": "attractive ladder",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "gorgeous shovel",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "magnificent wheelbarrow",
+        "method": "price_percent",
+        "param": -0.16
+    },
+    {
+        "name": "exquisite wheelbarrow",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "sublime drywall",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "beautiful hair mask",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "price_abs",
+        "param": -3145
+    },
+    {
+        "name": "amazing bubble bath",
+        "method": "quantity_add",
+        "param": 97
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "quantity_add",
+        "param": 7
+    },
+    {
+        "name": "amazing shampoo",
+        "method": "quantity_sub",
+        "param": -95
+    },
+    {
+        "name": "Razer Variau",
+        "method": "price_percent",
+        "param": -0.17
+    },
+    {
+        "name": "glamorous perfume",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "elegant kiwifruit",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "sublime drywall",
+        "method": "price_abs",
+        "param": 48.081
+    },
+    {
+        "name": "superb chisel",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "trendy level",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "EVGA 500B 80+ BRONZE",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "pleasant strawberry",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "stylish tape measure",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "attractive wheelbarrow",
+        "method": "quantity_add",
+        "param": 7
+    },
+    {
+        "name": "luxurious windows",
+        "method": "quantity_sub",
+        "param": -37
+    },
+    {
+        "name": "marvelous screws",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "nice apple",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "tasteful plum",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "superb drywall",
+        "method": "quantity_add",
+        "param": 149
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "sublime guava",
+        "method": "quantity_sub",
+        "param": -110
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "price_abs",
+        "param": 69687.20000000001
+    },
+    {
+        "name": "stylish lip balm",
+        "method": "price_percent",
+        "param": -0.05
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "superb axe",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "price_percent",
+        "param": -0.14
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "price_percent",
+        "param": -0.11
+    },
+    {
+        "name": "superb toothpaste",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "marvelous hair mask",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "quantity_sub",
+        "param": -5
+    },
+    {
+        "name": "pretty plum",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "stylish tape measure",
+        "method": "price_percent",
+        "param": 0.18
+    },
+    {
+        "name": "glamorous apple",
+        "method": "quantity_sub",
+        "param": -46
+    },
+    {
+        "name": "tasteful apricot",
+        "method": "price_abs",
+        "param": -5
+    },
+    {
+        "name": "exquisite wheelbarrow",
+        "method": "price_percent",
+        "param": 0.0
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "tasteful conditioner",
+        "method": "price_abs",
+        "param": 14
+    },
+    {
+        "name": "pleasant nails",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "method": "quantity_sub",
+        "param": -2
+    },
+    {
+        "name": "refined bubble bath",
+        "method": "quantity_add",
+        "param": 84
+    },
+    {
+        "name": "magnificent windows",
+        "method": "quantity_add",
+        "param": 3
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "price_abs",
+        "param": 2591
+    },
+    {
+        "name": "sublime serum",
+        "method": "price_percent",
+        "param": -0.18
+    },
+    {
+        "name": "elegant tile",
+        "method": "price_abs",
+        "param": -8
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "amazing shampoo",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "delightful kiwifruit",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "quantity_sub",
+        "param": -76
+    },
+    {
+        "name": "attractive insulation",
+        "method": "quantity_sub",
+        "param": -84
+    },
+    {
+        "name": "refined electrical",
+        "method": "price_abs",
+        "param": -1
+    },
+    {
+        "name": "delightful raspberry",
+        "method": "price_percent",
+        "param": 0.07
+    },
+    {
+        "name": "luxurious sunscreen",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "sublime ladder",
+        "method": "price_abs",
+        "param": 11
+    },
+    {
+        "name": "refined melon",
+        "method": "quantity_add",
+        "param": 127
+    },
+    {
+        "name": "WD Blue HDD",
+        "method": "quantity_add",
+        "param": 6
+    },
+    {
+        "name": "superb moustache wax",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "price_percent",
+        "param": -0.19
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "price_percent",
+        "param": 0.16
+    },
+    {
+        "name": "nice drywall",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "beautiful chisel",
+        "method": "quantity_add",
+        "param": 88
+    },
+    {
+        "name": "glamorous nail file",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "elegant apple",
+        "method": "price_percent",
+        "param": 0.14
+    },
+    {
+        "name": "tasteful apricot",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "trendy nail polish",
+        "method": "price_abs",
+        "param": 36.971000000000004
+    },
+    {
+        "name": "attractive wheelbarrow",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "refined saw",
+        "method": "quantity_add",
+        "param": 103
+    },
+    {
+        "name": "Canon PIXMA",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "gorgeous shovel",
+        "method": "price_abs",
+        "param": 15
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "quantity_add",
+        "param": 4
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "method": "price_percent",
+        "param": -0.13
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "sublime serum",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "refined melon",
+        "method": "price_abs",
+        "param": 2
+    },
+    {
+        "name": "stylish cranberry",
+        "method": "quantity_sub",
+        "param": -84
+    },
+    {
+        "name": "elegant tile",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "gorgeous exfoliator",
+        "method": "quantity_sub",
+        "param": -58
+    },
+    {
+        "name": "elegant raspberry",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "quantity_add",
+        "param": 8
+    },
+    {
+        "name": "stylish grapes",
+        "method": "quantity_sub",
+        "param": -108
+    },
+    {
+        "name": "elegant lotion",
+        "method": "price_abs",
+        "param": -17
+    },
+    {
+        "name": "delightful scaffolding",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "luxurious melon",
+        "method": "price_abs",
+        "param": 0
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "method": "price_percent",
+        "param": -0.01
+    },
+    {
+        "name": "pleasant shampoo",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "pleasant strawberry",
+        "method": "price_percent",
+        "param": 0.07
+    },
+    {
+        "name": "tasteful apricot",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "magnificent windows",
+        "method": "price_abs",
+        "param": 6
+    },
+    {
+        "name": "elegant plumbing",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Intel Core i5",
+        "method": "price_abs",
+        "param": -2304
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "price_abs",
+        "param": -14988
+    },
+    {
+        "name": "refined insulation",
+        "method": "quantity_add",
+        "param": 83
+    },
+    {
+        "name": "nice apple",
+        "method": "price_abs",
+        "param": 24.695
+    },
+    {
+        "name": "superb toothpaste",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "tasteful conditioner",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "EVGA 500B 80+ BRONZE",
+        "method": "remove",
+        "param": ""
+    },
+    {
+        "name": "superb axe",
+        "method": "price_percent",
+        "param": -0.06
+    },
+    {
+        "name": "stylish shovel",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "delightful apricot",
+        "method": "price_percent",
+        "param": -0.14
+    },
+    {
+        "name": "stylish tape measure",
+        "method": "quantity_add",
+        "param": 30
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "quantity_add",
+        "param": 2
+    },
+    {
+        "name": "stylish grapes",
+        "method": "quantity_sub",
+        "param": -106
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "price_abs",
+        "param": 24
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "quantity_sub",
+        "param": -2
+    },
+    {
+        "name": "elegant apple",
+        "method": "price_percent",
+        "param": -0.03
+    },
+    {
+        "name": "magnificent wheelbarrow",
+        "method": "price_percent",
+        "param": -0.08
+    },
+    {
+        "name": "beautiful hair mask",
+        "method": "quantity_add",
+        "param": 113
+    },
+    {
+        "name": "magnificent windows",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "magnificent roofing",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "delightful orange",
+        "method": "price_abs",
+        "param": 1
+    },
+    {
+        "name": "stylish windows",
+        "method": "price_percent",
+        "param": -0.17
+    },
+    {
+        "name": "EVGA 500B 80+ BRONZE",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "stylish lip balm",
+        "method": "quantity_add",
+        "param": 29
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "method": "price_abs",
+        "param": -958
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "method": "price_percent",
+        "param": -0.06
+    },
+    {
+        "name": "exquisite ladder",
+        "method": "price_abs",
+        "param": 4
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "method": "quantity_sub",
+        "param": -3
+    },
+    {
+        "name": "marvelous hair mask",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "magnificent windows",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "Corsair HS60",
+        "method": "quantity_add",
+        "param": 6
+    },
+    {
+        "name": "superb chisel",
+        "method": "quantity_add",
+        "param": 174
+    },
+    {
+        "name": "superb sunscreen",
+        "method": "quantity_add",
+        "param": 1
+    },
+    {
+        "name": "pleasant night cream",
+        "method": "price_percent",
+        "param": 0.0
+    },
+    {
+        "name": "stylish orange",
+        "method": "available",
+        "param": true
+    },
+    {
+        "name": "elegant insulation",
+        "method": "available",
+        "param": false
+    },
+    {
+        "name": "sublime drywall",
+        "method": "quantity_add",
+        "param": 37
+    },
+    {
+        "name": "magnificent wheelbarrow",
+        "method": "price_abs",
+        "param": 0
+    },
+    {
+        "name": "attractive baby shampoo",
+        "method": "quantity_add",
+        "param": 142
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "id": 66,
+        "name": "luxurious cherry",
+        "price": 44.23,
+        "quantity": 478,
+        "category": "fruit",
+        "fromCity": "\u0412\u0438\u043b\u044c\u043d\u044e\u0441",
+        "isAvailable": 0,
+        "views": 94866,
+        "version": 3
+    },
+    {
+        "id": 79,
+        "name": "glamorous apple",
+        "price": 21.69,
+        "quantity": 844,
+        "category": "fruit",
+        "fromCity": "\u041c\u0430\u0434\u0440\u0438\u0434",
+        "isAvailable": 1,
+        "views": 89814,
+        "version": 9
+    },
+    {
+        "id": 26,
+        "name": "delightful banana",
+        "price": 26.340000000000003,
+        "quantity": 747,
+        "category": "fruit",
+        "fromCity": "\u041c\u043e\u043d\u0441\u043e\u043d",
+        "isAvailable": 1,
+        "views": 60154,
+        "version": 6
+    },
+    {
+        "id": 77,
+        "name": "stylish kiwifruit",
+        "price": 54.15,
+        "quantity": 894,
+        "category": "fruit",
+        "fromCity": "\u041b\u0430\u0441-\u0420\u043e\u0441\u0430\u0441",
+        "isAvailable": 1,
+        "views": 57240,
+        "version": 4
+    },
+    {
+        "id": 41,
+        "name": "delightful mango",
+        "price": 58.69,
+        "quantity": 696,
+        "category": "fruit",
+        "fromCity": "\u041a\u0430\u043c\u0431\u0430\u0434\u043e\u0441",
+        "isAvailable": 0,
+        "views": 43234,
+        "version": 0
+    },
+    {
+        "id": 69,
+        "name": "elegant apple",
+        "price": 17.47,
+        "quantity": 877,
+        "category": "fruit",
+        "fromCity": "\u0422\u0443\u0434\u0435\u043b\u0430",
+        "isAvailable": 0,
+        "views": 37277,
+        "version": 11
+    },
+    {
+        "id": 145,
+        "name": "sublime guava",
+        "price": 19.56,
+        "quantity": 552,
+        "category": "fruit",
+        "fromCity": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "isAvailable": 1,
+        "views": 18498,
+        "version": 4
+    },
+    {
+        "id": 60,
+        "name": "tasteful plum",
+        "price": 21.39,
+        "quantity": 798,
+        "category": "fruit",
+        "fromCity": "\u041f\u043b\u0430\u0441\u0435\u043d\u0441\u0438\u044f",
+        "isAvailable": 0,
+        "views": 4948,
+        "version": 4
+    }
+]

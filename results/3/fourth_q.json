@@ -1,0 +1,92 @@
+[
+    {
+        "id": 683,
+        "artist": "Evanescence",
+        "song": "Bring Me To Life",
+        "duration_ms": 235893,
+        "year": 2003,
+        "tempo": 94.612,
+        "genre": "metal",
+        "loudness": -3.188
+    },
+    {
+        "id": 1606,
+        "artist": "Limp Bizkit",
+        "song": "Rollin' (Air Raid Vehicle)",
+        "duration_ms": 213760,
+        "year": 2000,
+        "tempo": 96.306,
+        "genre": "metal",
+        "loudness": -3.358
+    },
+    {
+        "id": 1013,
+        "artist": "Tame Impala",
+        "song": "The Less I Know The Better",
+        "duration_ms": 216320,
+        "year": 2015,
+        "tempo": 116.879,
+        "genre": "metal",
+        "loudness": -4.083
+    },
+    {
+        "id": 230,
+        "artist": "Evanescence",
+        "song": "Call Me When You're Sober",
+        "duration_ms": 214706,
+        "year": 2006,
+        "tempo": 93.41,
+        "genre": "metal",
+        "loudness": -4.094
+    },
+    {
+        "id": 1610,
+        "artist": "The Rasmus",
+        "song": "In the Shadows",
+        "duration_ms": 257920,
+        "year": 2003,
+        "tempo": 105.991,
+        "genre": "metal",
+        "loudness": -4.481
+    },
+    {
+        "id": 1759,
+        "artist": "Chad Kroeger",
+        "song": "Hero (feat. Josey Scott)",
+        "duration_ms": 200480,
+        "year": 2003,
+        "tempo": 147.387,
+        "genre": "metal",
+        "loudness": -4.54
+    },
+    {
+        "id": 1985,
+        "artist": "Limp Bizkit",
+        "song": "Take A Look Around",
+        "duration_ms": 321040,
+        "year": 2000,
+        "tempo": 101.968,
+        "genre": "metal",
+        "loudness": -5.607
+    },
+    {
+        "id": 1207,
+        "artist": "Limp Bizkit",
+        "song": "Behind Blue Eyes",
+        "duration_ms": 269973,
+        "year": 2003,
+        "tempo": 120.315,
+        "genre": "metal",
+        "loudness": -6.66
+    },
+    {
+        "id": 170,
+        "artist": "Evanescence",
+        "song": "My Immortal",
+        "duration_ms": 262533,
+        "year": 2003,
+        "tempo": 79.012,
+        "genre": "metal",
+        "loudness": -9.206
+    }
+]

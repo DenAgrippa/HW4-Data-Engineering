@@ -1,0 +1,112 @@
+[
+    {
+        "id": 130,
+        "name": "stylish blackberry",
+        "price": 76.79,
+        "quantity": 791,
+        "category": "fruit",
+        "fromCity": "\u0421\u043a\u043e\u043f\u044c\u0435",
+        "isAvailable": 1,
+        "views": 56365,
+        "version": 14
+    },
+    {
+        "id": 49,
+        "name": "nice face wash",
+        "price": 32.63,
+        "quantity": 592,
+        "category": "cosmetics",
+        "fromCity": "\u0412\u0438\u043b\u044c\u043d\u044e\u0441",
+        "isAvailable": 1,
+        "views": 86086,
+        "version": 13
+    },
+    {
+        "id": 83,
+        "name": "marvelous plumbing",
+        "price": 67.03,
+        "quantity": 627,
+        "category": "tools",
+        "fromCity": "\u041f\u043e\u0434\u0433\u043e\u0440\u0438\u0446\u0430",
+        "isAvailable": 0,
+        "views": 66120,
+        "version": 13
+    },
+    {
+        "id": 97,
+        "name": "beautiful hair mask",
+        "price": 168.11200000000002,
+        "quantity": 1218,
+        "category": "cosmetics",
+        "fromCity": "\u041b\u0430-\u041a\u043e\u0440\u0443\u043d\u044c\u044f",
+        "isAvailable": 0,
+        "views": 50644,
+        "version": 13
+    },
+    {
+        "id": 28,
+        "name": "superb drywall",
+        "price": 42.36,
+        "quantity": 1308,
+        "category": "tools",
+        "fromCity": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+        "isAvailable": 0,
+        "views": 89252,
+        "version": 12
+    },
+    {
+        "id": 73,
+        "name": "attractive plumbing",
+        "price": 50.35,
+        "quantity": 375,
+        "category": "tools",
+        "fromCity": "\u041d\u0430\u0432\u0430\u043b\u044c\u043a\u0430\u0440\u043d\u0435\u0440\u043e",
+        "isAvailable": 1,
+        "views": 89806,
+        "version": 12
+    },
+    {
+        "id": 33,
+        "name": "elegant apple",
+        "price": 81.27,
+        "quantity": 658,
+        "category": "fruit",
+        "fromCity": "\u041f\u0440\u0430\u0433\u0430",
+        "isAvailable": 0,
+        "views": 40796,
+        "version": 11
+    },
+    {
+        "id": 69,
+        "name": "elegant apple",
+        "price": 17.47,
+        "quantity": 877,
+        "category": "fruit",
+        "fromCity": "\u0422\u0443\u0434\u0435\u043b\u0430",
+        "isAvailable": 0,
+        "views": 37277,
+        "version": 11
+    },
+    {
+        "id": 12,
+        "name": "stylish cranberry",
+        "price": 74.19,
+        "quantity": 322,
+        "category": "fruit",
+        "fromCity": "\u041c\u0430\u0440\u0442\u043e\u0441\u0430",
+        "isAvailable": 1,
+        "views": 58200,
+        "version": 10
+    },
+    {
+        "id": 2,
+        "name": "elegant plumbing",
+        "price": 54.58,
+        "quantity": 1058,
+        "category": "tools",
+        "fromCity": "\u0412\u0440\u043e\u0446\u043b\u0430\u0432",
+        "isAvailable": 1,
+        "views": 18662,
+        "version": 9
+    }
+]

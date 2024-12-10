@@ -1,0 +1,102 @@
+[
+    {
+        "id": 392,
+        "artist": "Missy Elliott",
+        "song": "Hot Boyz",
+        "duration_ms": 215466,
+        "year": 1998,
+        "tempo": 81.125,
+        "genre": "hip hop, pop, R&B",
+        "loudness": -11.241
+    },
+    {
+        "id": 62,
+        "artist": "Red Hot Chili Peppers",
+        "song": "Otherside",
+        "duration_ms": 255373,
+        "year": 1999,
+        "tempo": 123.229,
+        "genre": "rock",
+        "loudness": -3.265
+    },
+    {
+        "id": 96,
+        "artist": "Creed",
+        "song": "Higher",
+        "duration_ms": 316733,
+        "year": 1999,
+        "tempo": 155.827,
+        "genre": "pop, rock, metal",
+        "loudness": -6.254
+    },
+    {
+        "id": 180,
+        "artist": "Backstreet Boys",
+        "song": "Show Me the Meaning of Being Lonely",
+        "duration_ms": 234960,
+        "year": 1999,
+        "tempo": 167.998,
+        "genre": "pop",
+        "loudness": -5.088
+    },
+    {
+        "id": 195,
+        "artist": "Savage Garden",
+        "song": "Crash and Burn",
+        "duration_ms": 281466,
+        "year": 1999,
+        "tempo": 102.03,
+        "genre": "pop",
+        "loudness": -8.458
+    },
+    {
+        "id": 212,
+        "artist": "Eiffel 65",
+        "song": "Move Your Body - Gabry Ponte Original Radio Edit",
+        "duration_ms": 268863,
+        "year": 1999,
+        "tempo": 129.962,
+        "genre": "pop",
+        "loudness": -9.664
+    },
+    {
+        "id": 223,
+        "artist": "Faith Hill",
+        "song": "Breathe",
+        "duration_ms": 250546,
+        "year": 1999,
+        "tempo": 136.859,
+        "genre": "pop, country",
+        "loudness": -9.007
+    },
+    {
+        "id": 225,
+        "artist": "Destiny's Child",
+        "song": "Say My Name",
+        "duration_ms": 271333,
+        "year": 1999,
+        "tempo": 138.009,
+        "genre": "pop, R&B",
+        "loudness": -3.525
+    },
+    {
+        "id": 269,
+        "artist": "C\u00e9line Dion",
+        "song": "That's the Way It Is",
+        "duration_ms": 241373,
+        "year": 1999,
+        "tempo": 93.04,
+        "genre": "pop",
+        "loudness": -5.424
+    },
+    {
+        "id": 286,
+        "artist": "Santana",
+        "song": "Maria Maria (feat. The Product G&B)",
+        "duration_ms": 261973,
+        "year": 1999,
+        "tempo": 97.911,
+        "genre": "rock, blues, latin",
+        "loudness": -5.931
+    }
+]
