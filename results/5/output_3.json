@@ -1,0 +1,50 @@
+[
+    {
+        "WEATHER": 1,
+        "Total_Crashes": 1516,
+        "Total_Fatalities": 23,
+        "Total_Injuries": 934
+    },
+    {
+        "WEATHER": 2,
+        "Total_Crashes": 154,
+        "Total_Fatalities": 4,
+        "Total_Injuries": 95
+    },
+    {
+        "WEATHER": 3,
+        "Total_Crashes": 4,
+        "Total_Fatalities": 0,
+        "Total_Injuries": 1
+    },
+    {
+        "WEATHER": 4,
+        "Total_Crashes": 244,
+        "Total_Fatalities": 1,
+        "Total_Injuries": 109
+    },
+    {
+        "WEATHER": 5,
+        "Total_Crashes": 11,
+        "Total_Fatalities": 0,
+        "Total_Injuries": 9
+    },
+    {
+        "WEATHER": 6,
+        "Total_Crashes": 2,
+        "Total_Fatalities": 0,
+        "Total_Injuries": 2
+    },
+    {
+        "WEATHER": 8,
+        "Total_Crashes": 17,
+        "Total_Fatalities": 0,
+        "Total_Injuries": 6
+    },
+    {
+        "WEATHER": 9,
+        "Total_Crashes": 10,
+        "Total_Fatalities": 1,
+        "Total_Injuries": 3
+    }
+]

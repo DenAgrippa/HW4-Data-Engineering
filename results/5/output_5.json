@@ -1,0 +1,154 @@
+[
+    {
+        "Municipality_Name": "Amwell Township",
+        "Crash_Count": 65
+    },
+    {
+        "Municipality_Name": "Bentleyville Borough",
+        "Crash_Count": 30
+    },
+    {
+        "Municipality_Name": "Buffalo Township",
+        "Crash_Count": 49
+    },
+    {
+        "Municipality_Name": "California Borough",
+        "Crash_Count": 35
+    },
+    {
+        "Municipality_Name": "Canonsburg Borough",
+        "Crash_Count": 51
+    },
+    {
+        "Municipality_Name": "Canton Township",
+        "Crash_Count": 58
+    },
+    {
+        "Municipality_Name": "Carroll Township",
+        "Crash_Count": 52
+    },
+    {
+        "Municipality_Name": "Cecil Township",
+        "Crash_Count": 113
+    },
+    {
+        "Municipality_Name": "Centerville Borough",
+        "Crash_Count": 41
+    },
+    {
+        "Municipality_Name": "Chartiers Township",
+        "Crash_Count": 75
+    },
+    {
+        "Municipality_Name": "Donegal Township",
+        "Crash_Count": 44
+    },
+    {
+        "Municipality_Name": "Donora Borough",
+        "Crash_Count": 14
+    },
+    {
+        "Municipality_Name": "East Finley Township",
+        "Crash_Count": 13
+    },
+    {
+        "Municipality_Name": "East Washington Borough",
+        "Crash_Count": 12
+    },
+    {
+        "Municipality_Name": "Fallowfield Township",
+        "Crash_Count": 74
+    },
+    {
+        "Municipality_Name": "Hanover Township",
+        "Crash_Count": 26
+    },
+    {
+        "Municipality_Name": "Independence Township",
+        "Crash_Count": 26
+    },
+    {
+        "Municipality_Name": "Jefferson Township",
+        "Crash_Count": 11
+    },
+    {
+        "Municipality_Name": "Monongahela City",
+        "Crash_Count": 31
+    },
+    {
+        "Municipality_Name": "Morris Township",
+        "Crash_Count": 25
+    },
+    {
+        "Municipality_Name": "Mount Pleasant Township",
+        "Crash_Count": 54
+    },
+    {
+        "Municipality_Name": "North Bethlehem Township",
+        "Crash_Count": 19
+    },
+    {
+        "Municipality_Name": "North Franklin Township",
+        "Crash_Count": 49
+    },
+    {
+        "Municipality_Name": "North Strabane Township",
+        "Crash_Count": 175
+    },
+    {
+        "Municipality_Name": "Nottingham Township",
+        "Crash_Count": 21
+    },
+    {
+        "Municipality_Name": "Peters Township",
+        "Crash_Count": 109
+    },
+    {
+        "Municipality_Name": "Robinson Township",
+        "Crash_Count": 21
+    },
+    {
+        "Municipality_Name": "Smith Township",
+        "Crash_Count": 42
+    },
+    {
+        "Municipality_Name": "Somerset Township",
+        "Crash_Count": 56
+    },
+    {
+        "Municipality_Name": "South Franklin Township",
+        "Crash_Count": 26
+    },
+    {
+        "Municipality_Name": "South Strabane Township",
+        "Crash_Count": 194
+    },
+    {
+        "Municipality_Name": "Speers Borough",
+        "Crash_Count": 13
+    },
+    {
+        "Municipality_Name": "Union Township",
+        "Crash_Count": 64
+    },
+    {
+        "Municipality_Name": "Washington City",
+        "Crash_Count": 111
+    },
+    {
+        "Municipality_Name": "West Bethlehem Township",
+        "Crash_Count": 11
+    },
+    {
+        "Municipality_Name": "West Brownsville Borough",
+        "Crash_Count": 11
+    },
+    {
+        "Municipality_Name": "West Finley Township",
+        "Crash_Count": 16
+    },
+    {
+        "Municipality_Name": "West Pike Run Township",
+        "Crash_Count": 20
+    }
+]

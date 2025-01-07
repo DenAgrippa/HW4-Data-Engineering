@@ -1,99 +1,162 @@
-import json
-import csv
 import sqlite3
+import pandas as pd
+import json
 
-def read_json(filename, source):
-    with open(filename, "r", encoding="utf-8") as f:
-        data = json.load(f)
-    selected_data = []
-    for entry in data[source]:
-        if source == "bookingHotels":
-            if len(entry["highlights"]) == 1: continue
-            if entry["rating"]["score"] == 'No rating': continue
-            item = {
-                'title': entry["title"],
-                'bed': entry["highlights"][1],
-                'price': int(entry["price"]['value']),
-                'period': "night",
-                'rating': float(entry["rating"]["score"]),
-            }
-            selected_data.append(item)
-        if source == "airbnbHotels":
-            if entry["rating"] == "No rating": continue
-            item = {
-                'title': entry["title"],
-                'bed': entry["subtitles"][1],
-                'price': int(entry["price"]['value']),
-                'period': entry["price"]['period'],
-                'rating': float(entry["rating"]),
-            }
-            selected_data.append(item)
-        if source == "hotelsComHotels":
-            item = {
-                'title': entry["title"],
-                'price': entry["price"]['value'],
-                'period': "night",
-                'rating': entry["rating"]['score'],
-            }
-            selected_data.append(item)
-
-    return selected_data
-
-def read_csv(filename, source):
-    items = []
-    with open(filename, "r", encoding="utf-8") as f:
-        reader = csv.reader(f, delimiter=",")
-        reader.__next__()
-        for row in reader:
-            if len(row) == 0: continue
-            if source == 'airbnbHotels':
-                if row[8] == 'No rating': continue
-                if row[6] == '': continue
-                item = {
-                    'title': row[1],
-                    'bed': row[3],
-                    'price': int(row[6]),
-                    'period': row[7],
-                    'rating': float(row[8]),
-                }
-            if source == "bookingHotels":
-#               if row[22] == '': continue
-                if row[24] == 'No rating': continue
-                item = {
-                    'title': row[11],
-                    'bed': row[19],
-                    'price': int(row[22]),
-                    'period': "night",
-                    'rating': float(row[24]),
-                }           
-            if source == "hotelsComHotels":
-                item = {
-                    'title': row[28],
-                    'price': int(row[34]),
-                    'period': "night",
-                    'rating': float(row[36]),
-                }  
-            items.append(item)
-    
-    return items
+def read_csv(file_path):
+    return pd.read_csv(file_path)
 
 def connect_to_db(filename):
     conn = sqlite3.connect(filename)
     conn.row_factory = sqlite3.Row
     return conn
 
-def create_hotel_table(db):
-    cursor =  db.cursor()
-
-    cursor.execute("""
-        CREATE TABLE hotel (
-                   id integer primary key,
-                   title text,
-                   name text,
-                   bed text,
-                   price integer,
-                   period text,
-                   rating real)
+def create_car_crash_table(db, table_name):
+    cursor = db.cursor()
+    cursor.execute(f"""
+        CREATE TABLE {table_name} (
+            CRASH_CRN int primary key,
+            MUNICIPALITY int,
+            POLICE_AGCY int,
+            CRASH_YEAR int,
+            HOUR_OF_DAY int,
+            WEATHER int,
+            ILLUMINATION int,
+            ROAD_CONDITION int,
+            COLLISION_TYPE int,
+            FATAL_COUNT int,
+            INJURY_COUNT int,
+            MAX_SEVERITY_LEVEL int)
     """)
 
-print(read_csv("data/5/London.csv", "bookingHotels"))
+def create_dict_table(db, table_name):
+    cursor = db.cursor()
+    cursor.execute(f"""
+        CREATE TABLE {table_name} (
+            code int primary key,
+            description text)
+    """)
+
+def insert_crash_data(db, table_name, data):
+    cursor = db.cursor()
+    cursor.executemany(f"""
+        INSERT INTO {table_name} (CRASH_CRN, MUNICIPALITY, POLICE_AGCY, CRASH_YEAR, HOUR_OF_DAY, WEATHER, ILLUMINATION, ROAD_CONDITION, COLLISION_TYPE, FATAL_COUNT, INJURY_COUNT, MAX_SEVERITY_LEVEL)
+        VALUES (:CRASH_CRN, :MUNICIPALITY, :POLICE_AGCY, :CRASH_YEAR, :HOUR_OF_DAY, :WEATHER, :ILLUMINATION, :ROAD_CONDITION, :COLLISION_TYPE, :FATAL_COUNT, :INJURY_COUNT, :MAX_SEVERITY_LEVEL)
+    """, data)
+    db.commit()
+
+def insert_dict_data(db, table_name, data):
+    cursor = db.cursor()
+    cursor.executemany(f"""
+        INSERT INTO {table_name} (Code, Description)
+        VALUES (:Code, :Description)
+    """, data)
+    db.commit()
+
+def querry_1(db):
+    cursor = db.cursor()
+    res = cursor.execute("""
+        SELECT MUNICIPALITY, WEATHER, MAX_SEVERITY_LEVEL
+        FROM WA2014
+        WHERE MAX_SEVERITY_LEVEL IS NOT NULL
+        ORDER BY MAX_SEVERITY_LEVEL DESC
+        LIMIT 5
+    """)
+    items = []
+    for row in res.fetchall():
+        items.append(dict(row))
+    return items 
+
+def querry_2(db):
+    cursor = db.cursor()
+    res = cursor.execute("""
+        SELECT 
+            COUNT(*) AS Total_Crashes,
+            SUM(FATAL_COUNT) AS Total_Fatalities,
+            SUM(INJURY_COUNT) AS Total_Injuries
+        FROM WA2015
+        WHERE WEATHER = 3
+    """)
+    items = []
+    for row in res.fetchall():
+        items.append(dict(row))
+    return items 
+
+def querry_3(db):
+    cursor = db.cursor()
+    res = cursor.execute("""
+        SELECT 
+            WEATHER,
+            COUNT(*) AS Total_Crashes,
+            SUM(FATAL_COUNT) AS Total_Fatalities,
+            SUM(INJURY_COUNT) AS Total_Injuries
+        FROM WA2014
+        GROUP BY WEATHER
+    """)
+    items = []
+    for row in res.fetchall():
+        items.append(dict(row))
+    return items 
+
+def querry_4(db):
+    cursor = db.cursor()
+    res = cursor.execute("""
+        UPDATE WA2014
+        SET CRASH_YEAR = CRASH_YEAR + 1;
+    """)
+    db.commit()
+
+def querry_5(db):
+    cursor = db.cursor()
+    res = cursor.execute("""
+        SELECT 
+            m.Description AS Municipality_Name, 
+            COUNT(w.CRASH_CRN) AS Crash_Count
+        FROM WA2014 w
+        JOIN municipal_codes m
+            ON w.MUNICIPALITY = m.Code
+        GROUP BY m.Description
+        HAVING COUNT(w.CRASH_CRN) > 10
+    """)
+    items = []
+    for row in res.fetchall():
+        items.append(dict(row))
+    return items 
+
+def write_to_json(data, task_number, file_id=''):
+    with open(f'results/{task_number}/output_{file_id}.json', 'w', encoding='utf-8') as file:
+        json.dump(data, file, indent=4)
+
+db = connect_to_db("car_crash_data.db")
+create_car_crash_table(db, 'WA2014')
+create_car_crash_table(db, 'WA2015')
+create_dict_table(db, 'municipal_codes')
+create_dict_table(db, 'police_codes')
+
+load_list = ['CRASH_CRN',
+            'MUNICIPALITY', 
+            'POLICE_AGCY', 
+            'CRASH_YEAR',
+            'HOUR_OF_DAY',
+            'WEATHER',
+            'ILLUMINATION',
+            'ROAD_CONDITION',
+            'COLLISION_TYPE',
+            'FATAL_COUNT',
+            'INJURY_COUNT',
+            'MAX_SEVERITY_LEVEL']
+
+df_crash_2014 = pd.read_json('data/5/2014washington.json')[load_list].to_dict(orient='records')
+df_crash_2015 = pd.read_csv('data/5/2015washington.csv')[load_list].to_dict(orient='records')
+df_dict_municipal = pd.read_json('data/5/washingtonmunicipalcode.json').rename(columns= {'Municipality': 'Description'}).to_dict(orient='records')
+df_dict_police = pd.read_json('data/5/washingtonpoliceagencycode.json').rename(columns= {'Policy Agency': 'Description'}).to_dict(orient='records')
+
+insert_crash_data(db, 'WA2014', df_crash_2014)
+insert_crash_data(db, 'WA2015', df_crash_2015)
+insert_dict_data(db, 'municipal_codes', df_dict_municipal)
+insert_dict_data(db, 'police_codes', df_dict_police)
+
+write_to_json(querry_1(db), '5', '1')
+write_to_json(querry_2(db), '5', '2')
+write_to_json(querry_3(db), '5', '3')
+querry_4(db)
+write_to_json(querry_5(db), '5', '5')

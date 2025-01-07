@@ -1,0 +1,27 @@
+[
+    {
+        "MUNICIPALITY": 62406,
+        "WEATHER": 1,
+        "MAX_SEVERITY_LEVEL": 9
+    },
+    {
+        "MUNICIPALITY": 62224,
+        "WEATHER": 4,
+        "MAX_SEVERITY_LEVEL": 9
+    },
+    {
+        "MUNICIPALITY": 62224,
+        "WEATHER": 4,
+        "MAX_SEVERITY_LEVEL": 9
+    },
+    {
+        "MUNICIPALITY": 62224,
+        "WEATHER": 4,
+        "MAX_SEVERITY_LEVEL": 9
+    },
+    {
+        "MUNICIPALITY": 62224,
+        "WEATHER": 4,
+        "MAX_SEVERITY_LEVEL": 9
+    }
+]
