@@ -2,6 +2,12 @@ import sqlite3
 import pandas as pd
 import json
 
+# Содержит местоположение и информацию о каждом дорожно-транспортном происшествии, 
+# зарегистрированном в полиции округа Вашингтон с 2011 по 2015 год. 
+# Поля включают тяжесть травм, количество погибших, информацию об участвовавших транспортных средствах, 
+# информацию о местоположении и факторы, которые могли способствовать аварии.
+#
+# https://www.kaggle.com/datasets/mahdiehhajian/washington-county-crash-data/data
 def read_csv(file_path):
     return pd.read_csv(file_path)
 
